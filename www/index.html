@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js">
-</script>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"> </script>
+<script src="js/screenings.js"> </script>
 <script>
 $(document).ready(function(){
 		var request=$.ajax({
   			type: "GET",
-  			url: "http://2.cinema-sderot.appspot.com/getSchedule",
+//  			url: "http://2.cinema-sderot.appspot.com/getSchedule",
+			url: "http://127.0.0.1:8000/schedule_example.json",
   			dataType: "json",
   			crossDomain: true
 		});
 		
 		request.done(function( result ) {
-			$("div").append("<table>");
+			//$("div").append("<div class=\"screeningContainer\" id=\"screeningContainer\">");
 			for (movie in result.movies) {
-				$("table").append("<tr><td>"+result.movies[movie].propertyMap.title+"</td></tr>");
+				$("#screeningContainer").append("<div class=\"screening\">"+result.movies[movie].propertyMap.title+"</div>");
 			}
-			$("div").append("</table>");
+			//$("div").append("</div>");
 						
 		  //$("div").append("DONE"+msg.movies+"OK");
 		});
@@ -29,6 +31,8 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<div></div>
+<div id="screeningContainer">
+	
+</div>
 </body>
 </html>
