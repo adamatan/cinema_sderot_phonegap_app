@@ -1,1694 +1,699 @@
 {
-  "numberOfScreenings": "51",
   "screenings": [
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 220075
-      },
-      "propertyMap": {
-        "movieId": 2522,
-        "theater": 1,
-        "date": "Nov 16, 2013 7:00:00 PM"
-      }
+      "movieId": 2522,
+      "theater": 1,
+      "date": "2013-11-16-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 200066
-      },
-      "propertyMap": {
-        "movieId": 2524,
-        "theater": 2,
-        "date": "Nov 16, 2013 8:00:00 PM"
-      }
+      "movieId": 2524,
+      "theater": 2,
+      "date": "2013-11-16-20.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 80075
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 16, 2013 9:30:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-16-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 110066
-      },
-      "propertyMap": {
-        "movieId": 2522,
-        "theater": 1,
-        "date": "Nov 17, 2013 7:00:00 PM"
-      }
+      "movieId": 2522,
+      "theater": 1,
+      "date": "2013-11-17-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 120075
-      },
-      "propertyMap": {
-        "movieId": 2531,
-        "theater": 2,
-        "date": "Nov 17, 2013 8:00:00 PM"
-      }
+      "movieId": 2531,
+      "theater": 2,
+      "date": "2013-11-17-20.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 280072
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 17, 2013 9:30:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-17-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 210060
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 18, 2013 7:00:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-18-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 90079
-      },
-      "propertyMap": {
-        "movieId": 2533,
-        "theater": 2,
-        "date": "Nov 18, 2013 7:30:00 PM"
-      }
+      "movieId": 2533,
+      "theater": 2,
+      "date": "2013-11-18-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 100069
-      },
-      "propertyMap": {
-        "movieId": 2534,
-        "theater": 2,
-        "date": "Nov 18, 2013 9:00:00 PM"
-      }
+      "movieId": 2534,
+      "theater": 2,
+      "date": "2013-11-18-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 110065
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 18, 2013 9:30:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-18-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 230067
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 19, 2013 7:00:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-19-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70090
-      },
-      "propertyMap": {
-        "movieId": 2532,
-        "theater": 2,
-        "date": "Nov 19, 2013 7:30:00 PM"
-      }
+      "movieId": 2532,
+      "theater": 2,
+      "date": "2013-11-19-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 80076
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 19, 2013 9:30:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-19-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70091
-      },
-      "propertyMap": {
-        "movieId": 2535,
-        "theater": 1,
-        "date": "Nov 20, 2013 8:30:00 PM"
-      }
+      "movieId": 2535,
+      "theater": 1,
+      "date": "2013-11-20-20.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 110067
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 21, 2013 7:00:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-21-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 220076
-      },
-      "propertyMap": {
-        "movieId": 2536,
-        "theater": 2,
-        "date": "Nov 21, 2013 7:00:00 PM"
-      }
+      "movieId": 2536,
+      "theater": 2,
+      "date": "2013-11-21-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 190090
-      },
-      "propertyMap": {
-        "movieId": 2538,
-        "theater": 2,
-        "date": "Nov 21, 2013 9:00:00 PM"
-      }
+      "movieId": 2538,
+      "theater": 2,
+      "date": "2013-11-21-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 230068
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 21, 2013 9:00:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-21-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70092
-      },
-      "propertyMap": {
-        "movieId": 2532,
-        "theater": 2,
-        "date": "Nov 22, 2013 12:30:00 PM"
-      }
+      "movieId": 2532,
+      "theater": 2,
+      "date": "2013-11-22-12.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 80077
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 22, 2013 1:00:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-22-13.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 50069
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 23, 2013 7:00:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-23-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 100070
-      },
-      "propertyMap": {
-        "movieId": 2537,
-        "theater": 2,
-        "date": "Nov 23, 2013 8:00:00 PM"
-      }
+      "movieId": 2537,
+      "theater": 2,
+      "date": "2013-11-23-20.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 110068
-      },
-      "propertyMap": {
-        "movieId": 2529,
-        "theater": 1,
-        "date": "Nov 23, 2013 9:30:00 PM"
-      }
+      "movieId": 2529,
+      "theater": 1,
+      "date": "2013-11-23-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 40076
-      },
-      "propertyMap": {
-        "movieId": 2542,
-        "theater": 2,
-        "date": "Nov 24, 2013 7:00:00 PM"
-      }
+      "movieId": 2542,
+      "theater": 2,
+      "date": "2013-11-24-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 210061
-      },
-      "propertyMap": {
-        "movieId": 2539,
-        "theater": 1,
-        "date": "Nov 24, 2013 7:30:00 PM"
-      }
+      "movieId": 2539,
+      "theater": 1,
+      "date": "2013-11-24-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 90080
-      },
-      "propertyMap": {
-        "movieId": 2543,
-        "theater": 2,
-        "date": "Nov 24, 2013 9:00:00 PM"
-      }
+      "movieId": 2543,
+      "theater": 2,
+      "date": "2013-11-24-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 40077
-      },
-      "propertyMap": {
-        "movieId": 2530,
-        "theater": 1,
-        "date": "Nov 25, 2013 7:00:00 PM"
-      }
+      "movieId": 2530,
+      "theater": 1,
+      "date": "2013-11-25-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 50070
-      },
-      "propertyMap": {
-        "movieId": 2545,
-        "theater": 2,
-        "date": "Nov 25, 2013 7:30:00 PM"
-      }
+      "movieId": 2545,
+      "theater": 2,
+      "date": "2013-11-25-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 210062
-      },
-      "propertyMap": {
-        "movieId": 2532,
-        "theater": 2,
-        "date": "Nov 25, 2013 9:00:00 PM"
-      }
+      "movieId": 2532,
+      "theater": 2,
+      "date": "2013-11-25-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 90081
-      },
-      "propertyMap": {
-        "movieId": 2540,
-        "theater": 1,
-        "date": "Nov 25, 2013 9:30:00 PM"
-      }
+      "movieId": 2540,
+      "theater": 1,
+      "date": "2013-11-25-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 190091
-      },
-      "propertyMap": {
-        "movieId": 2541,
-        "theater": 2,
-        "date": "Nov 26, 2013 7:00:00 PM"
-      }
+      "movieId": 2541,
+      "theater": 2,
+      "date": "2013-11-26-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 230069
-      },
-      "propertyMap": {
-        "movieId": 2540,
-        "theater": 1,
-        "date": "Nov 26, 2013 7:00:00 PM"
-      }
+      "movieId": 2540,
+      "theater": 1,
+      "date": "2013-11-26-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70093
-      },
-      "propertyMap": {
-        "movieId": 2514,
-        "theater": 1,
-        "date": "Nov 26, 2013 9:00:00 PM"
-      }
+      "movieId": 2514,
+      "theater": 1,
+      "date": "2013-11-26-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 200067
-      },
-      "propertyMap": {
-        "movieId": 2546,
-        "theater": 2,
-        "date": "Nov 26, 2013 9:00:00 PM"
-      }
+      "movieId": 2546,
+      "theater": 2,
+      "date": "2013-11-26-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 40078
-      },
-      "propertyMap": {
-        "movieId": 2514,
-        "theater": 1,
-        "date": "Nov 27, 2013 7:00:00 PM"
-      }
+      "movieId": 2514,
+      "theater": 1,
+      "date": "2013-11-27-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 50071
-      },
-      "propertyMap": {
-        "movieId": 2544,
-        "theater": 2,
-        "date": "Nov 27, 2013 7:30:00 PM"
-      }
+      "movieId": 2544,
+      "theater": 2,
+      "date": "2013-11-27-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 90082
-      },
-      "propertyMap": {
-        "movieId": 2540,
-        "theater": 1,
-        "date": "Nov 27, 2013 9:00:00 PM"
-      }
+      "movieId": 2540,
+      "theater": 1,
+      "date": "2013-11-27-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 110069
-      },
-      "propertyMap": {
-        "movieId": 2541,
-        "theater": 2,
-        "date": "Nov 27, 2013 9:30:00 PM"
-      }
+      "movieId": 2541,
+      "theater": 2,
+      "date": "2013-11-27-21.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 40079
-      },
-      "propertyMap": {
-        "movieId": 2475,
-        "theater": 1,
-        "date": "Nov 28, 2013 11:00:00 AM"
-      }
+      "movieId": 2475,
+      "theater": 1,
+      "date": "2013-11-28-11.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 50072
-      },
-      "propertyMap": {
-        "movieId": 2478,
-        "theater": 1,
-        "date": "Nov 28, 2013 1:00:00 PM"
-      }
+      "movieId": 2478,
+      "theater": 1,
+      "date": "2013-11-28-13.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 210063
-      },
-      "propertyMap": {
-        "movieId": 2498,
-        "theater": 1,
-        "date": "Nov 28, 2013 5:00:00 PM"
-      }
+      "movieId": 2498,
+      "theater": 1,
+      "date": "2013-11-28-17.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 100071
-      },
-      "propertyMap": {
-        "movieId": 2540,
-        "theater": 1,
-        "date": "Nov 28, 2013 7:00:00 PM"
-      }
+      "movieId": 2540,
+      "theater": 1,
+      "date": "2013-11-28-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 60068
-      },
-      "propertyMap": {
-        "movieId": 2547,
-        "theater": 2,
-        "date": "Nov 28, 2013 7:30:00 PM"
-      }
+      "movieId": 2547,
+      "theater": 2,
+      "date": "2013-11-28-19.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 280073
-      },
-      "propertyMap": {
-        "movieId": 2514,
-        "theater": 1,
-        "date": "Nov 28, 2013 9:00:00 PM"
-      }
+      "movieId": 2514,
+      "theater": 1,
+      "date": "2013-11-28-21.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70094
-      },
-      "propertyMap": {
-        "movieId": 2541,
-        "theater": 2,
-        "date": "Nov 28, 2013 9:15:00 PM"
-      }
+      "movieId": 2541,
+      "theater": 2,
+      "date": "2013-11-28-21.15"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 60069
-      },
-      "propertyMap": {
-        "movieId": 2498,
-        "theater": 1,
-        "date": "Nov 29, 2013 11:00:00 AM"
-      }
+      "movieId": 2498,
+      "theater": 1,
+      "date": "2013-11-29-11.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 190092
-      },
-      "propertyMap": {
-        "movieId": 2541,
-        "theater": 2,
-        "date": "Nov 29, 2013 12:30:00 PM"
-      }
+      "movieId": 2541,
+      "theater": 2,
+      "date": "2013-11-29-12.30"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 100072
-      },
-      "propertyMap": {
-        "movieId": 2514,
-        "theater": 1,
-        "date": "Nov 29, 2013 1:00:00 PM"
-      }
+      "movieId": 2514,
+      "theater": 1,
+      "date": "2013-11-29-13.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 280074
-      },
-      "propertyMap": {
-        "movieId": 2539,
-        "theater": 1,
-        "date": "Nov 30, 2013 7:00:00 PM"
-      }
+      "movieId": 2539,
+      "theater": 1,
+      "date": "2013-11-30-19.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 70095
-      },
-      "propertyMap": {
-        "movieId": 2541,
-        "theater": 2,
-        "date": "Nov 30, 2013 8:00:00 PM"
-      }
+      "movieId": 2541,
+      "theater": 2,
+      "date": "2013-11-30-20.00"
     },
     {
-      "key": {
-        "parentKey": {
-          "kind": "screenings",
-          "id": 0,
-          "name": "screenings"
-        },
-        "kind": "screening",
-        "id": 200068
-      },
-      "propertyMap": {
-        "movieId": 2514,
-        "theater": 1,
-        "date": "Nov 30, 2013 9:00:00 PM"
-      }
+      "movieId": 2514,
+      "theater": 1,
+      "date": "2013-11-30-21.00"
     }
   ],
-  "numberOfMovies": "35",
-  "movies": [
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2408"
+  "movies": {
+    "2408": {
+      "movieId": "2408",
+      "duration": "130 דקות",
+      "title": "הסיפור של מאד - Mud",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2408/f18_asipor%20shel%20mud.jpg",
+      "description": "יום אחד על גדות נהר המיסיסיפי, מוצאים שני נערים סירה שנתקעה בצמרתו של עץ. שני הנערים הסקרנים, רגילים לשוטט באיזור אבל הפעם הם מגלים שהם לא נמצאים שם לבדם. יחד איתם נמצא מאד, אסיר נמלט שנידון למאסר על רצח בחור שהתעלל באהובתו. מאד במהרה כובש את לב הנערים והם מחליטים לעזור לו. מה שהם אינם יודעים זה שלא רק המשטרה מחפשת אחר מאד.",
+      "explorationDate": "2013-11-06-10.56",
+      "year": "2013",
+      "actors": "מת'יו מקונוהי, ריס וויתרספון",
+      "language": "אנגלית",
+      "director": "ג'ף ניקולס",
+      "country": "ארה\"ב"
+    },
+    "2475": {
+      "movieId": "2475",
+      "duration": "92 דקות",
+      "title": "מטוסים - מדובב לעברית - מועדון הילדים",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2475/f18_metosim.jpg",
+      "description": "דאסטי הוא מטוס שחולם להשתתף בתחרות טיסות גבוהות. אם כך מה הבעיה? יש לו פחד גדול מגבהים והוא מטוס ריסוס שלא בדיוק בנוי לתחרויות. עם עזרת המנטור שלו, סקיפר ועזרתם של חברים חדשים, דאסטי מתכנן להגשים את חלומו.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2013",
+      "language": "מדובב לעברית",
+      "director": "קליי הל",
+      "country": "ארה\"ב"
+    },
+    "2478": {
+      "movieId": "2478",
+      "duration": "105 דקות",
+      "title": "הדרדסים 2 - מועדון הילדים - מדובב לעברית",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2478/f18_adardasim%202.jpg",
+      "description": "הדרדסים חוברים לחבריהם בני האנוש על מנת להציל את דרדסית שנחטפה על ידי גרגמל מאחר והיא יודעת סוד שיכול להפוך את היצורים המרושעים שיצר– השטותניקים, לדרדסים אמיתיים.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2013",
+      "language": "מדובב לעברית",
+      "director": "ראג'ה גוסנל",
+      "country": "ארה\"ב"
+    },
+    "2498": {
+      "movieId": "2498",
+      "duration": "96 דקות",
+      "title": "טורבו - מועדון הילדים - מדובב לעברית",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2498/f18_turbo.jpg",
+      "description": "טורבו חולם להיות החילזון המהיר בעולם. לאחר תאונה מפתיעה, זוכה טורבו באורח פלא ביכולת לנוע במהירות שלא תיאמן, הוא יוצא למסע יוצא דופן על מנת להגשים את חלומו ולהתחרות מול נהגי המירוץ הטובים בעולם. ",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2013",
+      "language": "מדובב לעברית",
+      "director": "דיוויד סורן",
+      "country": "ארה\"ב"
+    },
+    "2514": {
+      "movieId": "2514",
+      "duration": "100 דקות",
+      "title": "בית לחם - המלצת החודש - קולנוע ישראלי",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2514/f18_%D7%91%D7%99%D7%AA%20%D7%9C%D7%97%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.jpg",
+      "description": "רזי הוא רכז נפת בית לחם בשב\"כ. הוא מגייס לעזרתו את סנפור בן ה-15, אחיו הצעיר של מפקד גדודי חללי אל אקצא בעיר, ומשקיע זמן רב בבניית הקשר ביניהם. סנפור, שגדל תמיד בצילו של אחיו, מוצא ברזי חבר ודמות אב, מישהו שמאמין בו וסומך עליו. כאשר סנפור מנסה לתמרן בין הדרישות של רזי לנאמנותו לאחיו, מוצאים עצמם רזי וסנפור בסיטואציה בלתי אפשרית.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2013",
+      "actors": "שאדי מרעי, צחי הלוי, הייתאם עומארי",
+      "language": "עברית/ערבית",
+      "director": "יובל אדלר",
+      "country": "ישראל"
+    },
+    "2515": {
+      "movieId": "2515",
+      "duration": "110",
+      "title": "הקרב על הרחבה - Battle of the Year",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2515/f18_%D7%94%D7%A7%D7%A8%D7%91%20%D7%A2%D7%9C%20%D7%94%D7%A8%D7%97%D7%91%D7%94.jpg",
+      "description": "הקרב על הרחבה הוא האולימפיאדה של רקדני הברייקדאנס, טורניר שנתי שמושך אליו את הקבוצות הטובות ביותר מרחבי העולם, אבל הקבוצה האמריקאית לא זכתה מעל לחמש עשרה שנה. ענק ההיפ-הופ והרקדן לשעבר דאנטה מגייס את חברו בלייק שיאמן את נבחרת הרקדנים האמריקאית וביחד הם מרכיבים את נבחרת החלומות של הרקדנים הטובים ביותר באמריקה.",
+      "explorationDate": "2013-11-06-10.56",
+      "year": "2013",
+      "actors": "ג'וש הולווי, לז אלונזו, ג'וש פק",
+      "language": "אנגלית",
+      "director": "בנסון לי",
+      "country": "ישראל"
+    },
+    "2518": {
+      "movieId": "2518",
+      "duration": "54 דקות",
+      "title": "העמק הנעלם - קולנוע ישראלי",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2518/f18_aemek%20aneelam.jpg",
+      "description": {
+        "value": "מאז 1967 מנסה מדינת ישראל לגרש את תושביה הפלסטינים של הבקעה, על מנת ליצור חיץ יהודי בין הגדה לבין ירדן. אך מי שסובלים מהכיבוש הישראלי הם דווקא התושבים הפלסטינים שדגלו בהתנגדות לא אלימה ובהצמדות לאדמה. תחילה נחקקו חוקים שאפשרו את הפקעת האדמות לצרכים צבאיים ובהמשך הועברו אל ההתנחלויות, אזורים נרחבים הוכרזו כשטחי אש, משאבות מים שהניחו הישראלים מעבירות את רוב המים של הבקעה אל תושביה היהודים ובארות המים התייבשו. הסרט משלב בין הצילומים המרהיבים של הבקעה לבין הטרגדיה האנושית של החיים בה."
       },
-      "propertyMap": {
-        "title": "הסיפור של מאד - Mud",
-        "duration": "130 דקות",
-        "movieId": "2408",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2408/f18_asipor%20shel%20mud.jpg",
-        "description": "יום אחד על גדות נהר המיסיסיפי, מוצאים שני נערים סירה שנתקעה בצמרתו של עץ. שני הנערים הסקרנים, רגילים לשוטט באיזור אבל הפעם הם מגלים שהם לא נמצאים שם לבדם. יחד איתם נמצא מאד, אסיר נמלט שנידון למאסר על רצח בחור שהתעלל באהובתו. מאד במהרה כובש את לב הנערים והם מחליטים לעזור לו. מה שהם אינם יודעים זה שלא רק המשטרה מחפשת אחר מאד.",
-        "explorationDate": "Nov 6, 2013 10:56:51 AM",
-        "actors": "מת'יו מקונוהי, ריס וויתרספון",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "ג'ף ניקולס",
-        "country": "ארה\"ב"
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2013",
+      "language": "ערבית",
+      "director": "עירית גל",
+      "country": "ישראל"
+    },
+    "2520": {
+      "movieId": "2520",
+      "duration": "82 דקות",
+      "title": "פינוקיו - מועדון הילדים - מדובב לעברית",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2520/f18_pinocchio.jpg",
+      "description": "הנגר הזקן ג'פטו יוצר בובת מריונטה שלהפתעתו יודעת לזוז ולדבר. הוא מחליט לקרוא לה בשם \"פינוקיו\" ומגדל אותה כאילו היתה בנו. פינוקיו הוא בובת עץ שובבה וסקרנית המסתבכת בלא מעט צרות. חלומו של פינוקיו הוא שיום אחד יהפוך להיות ילד אמיתי.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2013",
+      "language": "מדובב לעברית",
+      "director": "אנז'ו דאלו",
+      "country": "איטליה"
+    },
+    "2521": {
+      "movieId": "2521",
+      "duration": "123 דקות",
+      "title": "כנס העתידנים - The Congress",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2521/f18_kenes%20atar.jpg",
+      "description": "רובין רייט, שחקנית הוליוודית, מקבלת הצעה בלתי צפויה: אולפני פראמאונט מציעים לסרוק את כל כולה אל תוך המחשבים שלהם ולרכוש את הבעלות על דמותה. רובין חותמת על החוזה כדי שתוכל לתת לבנה החולה את כל הדרוש לו .עשרים שנה חולפות, כך גם תוקף החוזה, רובין היא אישה באמצע שנות השישים לחייה. היא חוזרת לסיבוב אחרון אל תוך עולם התעתועים והדמיון של הקולנוע העתידני והמצויר.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2013",
+      "actors": "רובין רייט, הארוי קייטל, דני יוסטון, פול ג'יאמטי",
+      "language": "אנגלית",
+      "director": "ארי פולמן",
+      "country": "ישראל/גרמניה/צרפת/בלגיה/לוקסמבורג/פולין"
+    },
+    "2522": {
+      "movieId": "2522",
+      "duration": "130 דקות",
+      "title": "המשרת - The Butler",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2522/f18_The-Butler.jpg",
+      "description": "ססיל גיינס, משרת אפרו-אמריקני, שירת בבית הלבן למעלה משלושים וארבע שנים ברציפות. במהלך שמונה קדנציות נשיאותיות, ליווה ססיל מקרוב את הנשיאים ומשפחותיהם והיה עד לשנים הסוערות ביותר בהיסטוריה האמריקנית.",
+      "explorationDate": "2013-11-06-10.58",
+      "year": "2013",
+      "actors": "פורסט ויטאקר, ג'ון קיואק, אופרה ווינפרי.",
+      "language": "אנגלית",
+      "director": "לי דניאלס",
+      "country": "ארה\"ב"
+    },
+    "2523": {
+      "movieId": "2523",
+      "duration": "52 דקות",
+      "title": "החבר הערבי שלי - קולנוע ישראלי",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2523/f18_ahaver%20aaravi%20sheli.jpg",
+      "description": "אחרי שהות בחו\"ל חוזרת נגה לתל אביב ומגלה שחברה הטוב, פארס תושב השטחים, אותו הכירה כשוהה בלתי חוקי בתל אביב, נעדר. דאגה לחייו מובילה אותה למסע הזוי ומפתיע עד לכפר הולדתו קיבייה, בלב השטחים הכבושים.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2012",
+      "language": "עברית",
+      "director": "נגה נצר",
+      "country": "ישראל"
+    },
+    "2524": {
+      "movieId": "2524",
+      "duration": "82 דקות",
+      "title": "אין מקום על פני האדמה - No Place on Earth",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2524/f18_en%20makom.jpg",
+      "description": "בשנת 1993, במהלך חפירה במערות הענק באוקראינה, מצא החוקר כריסטופר ניקולא כפתורים, נעליים ומפתח ישן לבית. בין התושבים המקומיים, נפוצה השמועה כי במהלך מלחמת העולם השנייה, הסתתרו במערה קומץ יהודים ועל ידי כך הצליחו להינצל מגורל זהה לזה של שאר היהודים באזור. במהלך תשע השנים שבאו אחרי הגילוי, איתרו ניקולא ובמאית הסרט ג'אנט טוביאס, כשלושים ושמונה ניצולים אשר שהו במערה שמונה עשר חודשים, זה הסיפור שלהם.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2012",
+      "language": "אנגלית",
+      "director": "ג'אנט טוביאס",
+      "country": "ארה\"ב, גרמניה, בריטניה."
+    },
+    "2525": {
+      "movieId": "2525",
+      "duration": "63 דקות",
+      "title": "בשורות - מחווה לפסטיבל הבינלאומי לקולנוע נשי ברחובות 2013",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2525/f18_bsorot.jpg",
+      "description": "בשוֹרוֹת הוא קונצרט לשבעה קולות נשים. נקודות המוצא שלהן הן הבשורות להגר, שרה ומריה על הולדת בניהם. את החוטים שהנשים מושכות מהטקסטים בתנ\"ך, בברית החדשה ובקוראן, הן טוות למארג של פירושים ואסוציאציות אישיות. כך הן מדברות על הביוגרפיות והמיתוסים הפרטיים שלהן כמו גם על הולדת התמונה בעולם הנוצרי או הולדת השיר בעולם היווני.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "2012",
+      "language": "עברית/צרפתית/ערבית",
+      "director": "נורית אביב",
+      "country": "ישראל/צרפת/בלגיה"
+    },
+    "2526": {
+      "movieId": "2526",
+      "duration": "108 דקות",
+      "title": "סודות של אמצע הקיץ + הרצאה - A La Verticale De L'ete",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2526/f18_sodot.jpg",
+      "description": {
+        "value": "סיפורי מסע בעקבות סרטים: סודות של אמצע הקיץ  לפני ההקרנה תתקיים הרצאה מפי יובל ארד בנושא: וייטנאם וקמבודיה - שתי מדינות יפהפיות שלא נהרסו תחת גלגלי הקדמה, שופעות אתרי טבע ותרבות, מטבח מגוון, שווקים צבעוניים, ארכיטקטורה קולוניאלית, קבוצות אתניות רבות ועוד. יוקרן הסרט: סודות של אמצע הקיץ שלוש אחיות נפגשות לרגל יום השנה למות אמן. שונג, הבכורה, מנהלת מסעדה בהאנוי. לין, הצעירה, עובדת אצלה כמלצרית. אחותן האמצעית, קאהן, נישאת על גלי האושר של נישואיה הטריים והריונה המתקדם. המפגש המשפחתי משמח ומקרב בין האחיות למרות שכל אחת מהן מסתירה סוד מפני האחרות. סוד הקשור במערכות היחסים בחייהן. מחיר כרטיס - מנויים: 20 ₪, רגיל: 30 ₪."
+      },
+      "explorationDate": "2013-11-06-10.56",
+      "year": "2000",
+      "actors": "טראו נו יו קה, נו קוין נגויין , לה קהאן",
+      "language": "ויטנאמית",
+      "director": "טראן אן האנג",
+      "country": "וייטנאם/צרפת/גרמניה"
+    },
+    "2527": {
+      "explorationDate": "2013-11-06-10.57",
+      "movieId": "2527",
+      "title": "פתיחת התערוכה : טלאים צורות וצבעים -",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2527/f18_tlaiim%202.JPG",
+      "description": {
+        "value": "       \"טלאים - צורות וצבעים \"                   תערוכה קבוצתית פתיחה חגיגית ביום רביעי 13/11 בשעה 19:00 בתוכנית: 19:00 פתיחת התערוכה וכיבוד קל. 19:45 דברי פתיחה. 20:00 הקרנת הסרט \"מעשה בשמיכת טלאים\". .קבוצת מטליאות ת\"א קיימת קצת יותר משנה, וזו התערוכה הקבוצתית המשותפת הראשונה שלה .עבודות הטלאים אשר יוצגו בתערוכה יאפשרו הצצה לעולם יצירה ייחודי ועשיר בסיום התערוכה חברות הקבוצה יתרמו חמישה שטיחי קיר מעשה ידן , לסינמטק שדרות, כהוקרה לתושבי שדרות והדרום שמות חברות הקבוצה: חנה אבני/ דליה אופיר/ אירנה אלמוגי/ יהודית בן עזר/ רות וולנברג/ אמירה וישינסקי/ רבקה ורסנו/ ניצה חזקיהו/ אינגה כהן/ ורי כוגן/ מינה ירשנסקי/ ציונה ערוב/ סימונה פלד/ עדה פרנקל-מניס/ ורדה קרת/ דנית רופא/ אילנה שמש  הינכם מוזמנים, הכניסה חופשית."
       }
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2475"
+    "2528": {
+      "movieId": "2528",
+      "duration": "109 דקות",
+      "title": "מעשה בשמיכת טלאים - How To Make An American Quilt",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2528/f18_maase%20be%20smihat%20tlaiim%202.jpg",
+      "description": "פין מסיימת את המאסטר שלה באוניברסיטה לפני חתונתה עם סאם, סטודנט צעיר ושאפתן. סוף הלימודים בשילוב עם קיץ מזיע במיוחד קורצים לפין לעצור לרגע את תוכניות החתונה ולנפץ את כבלי השמרנות המחייבים. היא נוסעת לסבתה, ויחד עם חברות נוספות למעגל הסריגה הן לומדות משהו על חופש ונשיות. הקרנה מיוחדת במסגרת פתיחת התערוכה: \"טלאים - צורות וצבעים\". הינכם מוזמנים, הכניסה חופשית.",
+      "explorationDate": "2013-11-06-10.57",
+      "year": "1995",
+      "actors": "וינונה ריידר, אן בנקרופט, אלן ברונשטיין",
+      "language": "אנגלית",
+      "director": "ג'וסלין מורהאוס",
+      "country": "ארה\"ב"
+    },
+    "2529": {
+      "movieId": "2529",
+      "duration": "150 דקות.",
+      "title": "אסירים - Prisoners",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2529/f18_asirim.jpg",
+      "description": "הבחירה שלכם בפייסבוק כאשר בתו בת ה-6 של קלר דובר וחברתה הטובה נעלמות, הוא לוקח את העניינים לידיים ומתחקה אחר החוטף בזמן שהמשטרה בוחנת מספר נתיבי חקירה. כאשר החקירה מסתבכת ומתארכת והלחץ הולך וגובר, נשאלת השאלה, כמה? רחוק יהיה האב הנואש מוכן ללכת כדי להגן על משפחתו.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2013",
+      "actors": "יו ג'קמן, ג'ק ג'ילנהול, טרנס האוורד, פול דאנו",
+      "language": "אנגלית",
+      "director": "דני וילנוב",
+      "country": "ארה\"ב"
+    },
+    "2530": {
+      "movieId": "2530",
+      "duration": "132 דקות",
+      "title": "קפטן פיליפס - Captain Phillips",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2530/f18_captain-phillips.jpg",
+      "description": "סיפור חטיפתה של ה\"אלבמה\", ספינת מטען אמריקאית ע\"י שודדי ים סומלים בשנת 2009. הסרט מתמקד במערכת היחסים בין המפקד של ה\"אלבמה\", קפטן ריצ'רד פיליפס, ומפקד הסומלים – מיוז. כששניהם נמצאים במסלול התנגשות בלתי נמנע ליד חופי סומליה הם מוצאים עצמם משלמים את המחיר עבור כוחות כלכליים שמחוץ לשליטתם.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2013",
+      "actors": "טום הנקס, קתרין קיינר, כריסטופר סטדוליס",
+      "language": "אנגלית",
+      "director": "פול גרינגראס",
+      "country": "ארה\"ב"
+    },
+    "2531": {
+      "movieId": "2531",
+      "duration": "165 דקות",
+      "title": "קוונטין טרנטינו + ג'אנגו ללא מעצורים - Django Unchained",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2531/f18_jango.jpg",
+      "description": {
+        "value": "מועדון הסרט המופרע  ערב חד פעמי שיוקדש לסיפור חייו וחוש ההומור של הבמאי, תסריטאי ומפיק, קוונטין טרנטינו. לסיום יוקרן סרטו האחרון:  ג'אנגו ללא מעצורים הסרט מתרחש בארצות-הברית של טרום מלחמת האזרחים, בתקופת העבדות. צייד ראשים גרמני קונה את חירותו של עבד על מנת שזה יסייע לו במציאתם של צמד אחים נודעים לשמצה אחריהם הוא רודף. בתמורה, הוא מבטיח לעזור לו לחלץ את אשתו המוחזקת כשפחה באחוזתו של בעל מטעים רשע במיסיסיפי. מנחה:  אלון גור אריה - במאי, תסריטאי ומרצה לקולנוע. מחיר כרטיס: 30 ₪ (לכולם) , מנוי: כניסה חופשית."
       },
-      "propertyMap": {
-        "title": "מטוסים - מדובב לעברית - מועדון הילדים",
-        "duration": "92 דקות",
-        "movieId": "2475",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2475/f18_metosim.jpg",
-        "description": "דאסטי הוא מטוס שחולם להשתתף בתחרות טיסות גבוהות. אם כך מה הבעיה? יש לו פחד גדול מגבהים והוא מטוס ריסוס שלא בדיוק בנוי לתחרויות. עם עזרת המנטור שלו, סקיפר ועזרתם של חברים חדשים, דאסטי מתכנן להגשים את חלומו.",
-        "explorationDate": "Nov 6, 2013 11:00:05 AM",
-        "year": "2013",
-        "language": "מדובב לעברית",
-        "director": "קליי הל",
-        "country": "ארה\"ב"
+      "explorationDate": "2013-11-06-10.58",
+      "year": "2012",
+      "actors": "ג'יימי פוקס, כריסטוף וולץ, קרי וושינגטון",
+      "language": "אנגלית",
+      "director": "קוונטין טרנטינו",
+      "country": "ארה\"ב"
+    },
+    "2532": {
+      "movieId": "2532",
+      "duration": "95 דקות",
+      "title": "שביל הזעם - קלאסיקה קולנועית - Badlands",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2532/f18_shvil%20azam.jpg",
+      "description": {
+        "value": "ביום שלישי ה-19.11 לפני ההקרנה תתקיים הרצאה מפי שני קיניסו, תלמיד כיתה יב' בבית הספר נופי הבשור של המועצה האזורית אשכול ותלמיד במגמת הקולנוע שם. ההקדמה תעסוק ביצירתו של מאליק (במאי של יצירות מופת כמו \"ימים ברקיע\" ו\"עץ החיים\") וייחודה. כמו כן על אותו גל קולנועי חדש שפרץ בקולנוע האמריקאי בשנות ה-70 ושביל הזעם הוא חלק ממנו. קיט, פועל ניקיון בן 25, צעיר ומרדן, מתאהב בהולי, תלמידת תיכון מלאכית בת 15. התנגדותו של אביה לקשר ביניהם גורמת להתפרצות אלימה. קיט יורה בו לעיני בתו, מעלה את ביתם באש, ונמלט עם אהובתו הקטינה למסע הרג."
+      },
+      "explorationDate": "2013-11-06-10.59",
+      "year": "1973",
+      "actors": "מרטין שין, סיסי ספייסק",
+      "language": "אנגלית",
+      "director": "טרנס מאליק",
+      "country": "ארה\"ב"
+    },
+    "2533": {
+      "movieId": "2533",
+      "duration": "85 דקות",
+      "title": "קלרה הקדושה - מחווה לבמאי ארי פולמן",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2533/f18_clara.jpg",
+      "description": "נערה צעירה בשם קלרה זוכה לכוחות על-טבעיים ומסוגלת לנבא את העתיד. כוחותיה המיוחדים הופכים משמעותיים כאשר אירועים שונים ומשונים פוקדים את העיירה בה היא גרה, בימים האחרונים של המאה ה-20, ואף אחד אינו יודע מה עומד להתרחש. כשהעולם עומד על סף אנדרלמוסיה, קלרה נאלצת לבחור בין שמירה על כוחותיה העל טבעיים ובין אהבת נעורים ראשונה.",
+      "explorationDate": "2013-11-06-10.58",
+      "year": "1996",
+      "actors": "לוסי דובינצ'יק, חליל אלוהב, יגאל נאור",
+      "language": "עברית",
+      "director": "ארי פולמן ואורי סיון",
+      "country": "ישראל"
+    },
+    "2534": {
+      "movieId": "2534",
+      "duration": "131 דקות",
+      "title": "הנסיכה מונונוקי - Princess Mononoke - סדרת סרטי מנגה",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2534/f18_princess.jpg",
+      "description": "נסיך צעיר נדבק במחלה חשוכת מרפא אחרי שהותקף על ידי אל חזירי הבר. הוא יוצא לחפש את אל הצבאים מהיער הקסום, היחיד שיכול להציל את חייו, ונקלע למאבק בין עיירה המייצרת ברזל לבין חיות היער המונהגות על ידי הנסיכה מונונוקי, נערה שגודלה על ידי זאבים. האנימטור הייאו מיאזאקי מביים אגדה בעלת מסרים אקולוגיים, פמיניסטיים ואנטי מלחמתיים.",
+      "explorationDate": "2013-11-06-10.58",
+      "year": "1999",
+      "actors": "דיבוב: יוג'י מאטסודה, יוריקו אישידה, יוקו טנאקה,",
+      "language": "יפנית",
+      "director": "הייאו מיאזקי",
+      "country": "יפן"
+    },
+    "2535": {
+      "explorationDate": "2013-11-06-10.58",
+      "movieId": "2535",
+      "title": "דורית ראובני במופע: אדם צובר זכרונות -",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2535/f18_dorit.jpg",
+      "description": "ערב שירה מחמם ומרגש של שירי ארץ ישראל היפה בשיתוף הקהל עם הקלאסיקות: יש פרחים, היום היום, האיש מן הבקעה, מסביב למדורה, אדם צובר זכרונות ועוד.. גיטרה קלאסית: דורית ראובני קלידים: אסי מנדל סקסופון: לירן אורפז כרטיסים: מכירה מוקדמת: מנויים - 30 ש\"ח, רגיל: 40 ש\"ח. ביום האירוע: מנויים - 40 ש\"ח, רגיל: 50 ש\"ח."
+    },
+    "2536": {
+      "movieId": "2536",
+      "duration": "89 דקות",
+      "title": "האתנוגרף - El Etnógrafo",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2536/f18_el-etnografo.jpg",
+      "description": "שבוע הקולנוע הארגנטינאי  האנתרופולוג הבריטי ג'ון פאלמר הגיע לשבט הוויצ'י בצפון ארגנטינה לפני 30 שנה. כיום הוא נשוי לאישה מהקהילה ולהם חמישה בנים. בתור היועץ המשפטי של קהילת ה\"לפאצ'ו מוצ'ו\", כחלק מהמשפחה, הוא עובד על שחרורו של קאטו, חבר מהשבט שנמצא בכלא כבר 5 שנים ומחכה לשימוע בעל פה בקשר לאישומים של התעללות בבתה של אשתו.  ",
+      "explorationDate": "2013-11-06-10.58",
+      "year": "2012",
+      "language": "ספרדית/אנגלית/וויצ'י",
+      "director": "יוליסס רוסל",
+      "country": "ארגנטינה"
+    },
+    "2537": {
+      "explorationDate": "2013-11-06-10.59",
+      "movieId": "2537",
+      "title": "ויולה + רוזלינדה - שבוע הקולנוע הארגנטינאי",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2537/f18_viola.jpg",
+      "description": {
+        "value": "שבוע הקולנוע הארגנטינאי  Violaויולה ססיליה היא שחקנית המבלה את ימיה בחזרות על הקומדיה השייקספירית \"הלילה ה-12\" בתיאטרון קטן בבואנוס איירס. ויולה מבלה את ימיה על אופניים בשליחויות של סרטים פיראטיים. סברינה מחברת בין שני הסיפורים הללו. \"ויולה\" מחבר ללא דעה קדומה תיאוריות שונות של תשוקה, חלומות, שירה ובדיה בעולם של נשים שייקספיריות שבו המסתורין אינו פתור אבל האהבה זורמת ללא שליטה. בימוי: מתיאס פיניירו, משחק: אגוסטינה מוניוז, מריה וילאר, צילום: פרננדו לוקט, מוזיקה: ג'ון אלוורד, חוליאן דג'ו, ארגנטינה, 2012, עלילתי, 65 דקות, ספרדית, תרגום לעברית.  רוזלינדה  Rosalinda שני מקצבים שונים באותו הגוף. הראשון של שחקנית והשני של הדמות שאותה היא משחקת. לואיזה ורוזלינדה חולקות את אותו הגוף אך לא את אותו מקצב. יום אחד בפרברי בואנוס איירס קבוצת שחקנים עושה חזרות על המחזה \"כטוב בעיניכם\" של שייקספיר. במהלך אותו היום, האהבה עולה והתפקידים בין השחקנית והדמות מתערבבים. בימוי: מתיאס פיניירו, משחק: אגוסטינה מוניוז, מריה וילאר, צילום: פרננדו לוקט, מוזיקה:אמיליו אגלסיאס, ארגנטינה/דרום קוריאה, 2011, עלילתי, 43 דקות, ספרדית, תרגום לעברית ואנגלית."
       }
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2478"
-      },
-      "propertyMap": {
-        "title": "הדרדסים 2 - מועדון הילדים - מדובב לעברית",
-        "duration": "105 דקות",
-        "movieId": "2478",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2478/f18_adardasim%202.jpg",
-        "description": "הדרדסים חוברים לחבריהם בני האנוש על מנת להציל את דרדסית שנחטפה על ידי גרגמל מאחר והיא יודעת סוד שיכול להפוך את היצורים המרושעים שיצר– השטותניקים, לדרדסים אמיתיים.",
-        "explorationDate": "Nov 6, 2013 11:00:08 AM",
-        "year": "2013",
-        "language": "מדובב לעברית",
-        "director": "ראג'ה גוסנל",
-        "country": "ארה\"ב"
-      }
+    "2538": {
+      "movieId": "2538",
+      "duration": "105 דקות",
+      "title": "שוקולד 1988 - Chocolat - מחווה לבמאית קלייר דני",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2538/f18_chocolat.jpg",
+      "description": "העלילה מתרחשת באפריקה בסוף עידן הקולוניאליזם הצרפתי. פראנס היא צעירה צרפתייה החוזרת למערב אפריקה להרהר בימי ילדותה. בקולוניה הצרפתית היא הורגלה לחיים נוחים, בהם הלבנים שולטים. הזיכרון החזק ביותר שלה הוא של אחד ממשרתי הבית, גבר אציל, אינטליגנטי ותמיר, היא מתארת את מערכת היחסים איתו בחברה גזענית ויצרית.",
+      "explorationDate": "2013-11-06-10.58",
+      "year": "1988",
+      "actors": "איזאק דה בנקולה, ג'וליה בושי, פרנסואה קלוזה",
+      "language": "צרפתית",
+      "director": "קלייר דני",
+      "country": "צרפת"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2498"
-      },
-      "propertyMap": {
-        "title": "טורבו - מועדון הילדים - מדובב לעברית",
-        "duration": "96 דקות",
-        "movieId": "2498",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2498/f18_turbo.jpg",
-        "description": "טורבו חולם להיות החילזון המהיר בעולם. לאחר תאונה מפתיעה, זוכה טורבו באורח פלא ביכולת לנוע במהירות שלא תיאמן, הוא יוצא למסע יוצא דופן על מנת להגשים את חלומו ולהתחרות מול נהגי המירוץ הטובים בעולם. ",
-        "explorationDate": "Nov 6, 2013 11:00:24 AM",
-        "year": "2013",
-        "language": "מדובב לעברית",
-        "director": "דיוויד סורן",
-        "country": "ארה\"ב"
-      }
+    "2539": {
+      "movieId": "2539",
+      "duration": "95 דקות",
+      "title": "רחוב מנדר - טרום בכורה - Rue Mandar",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2539/f18_rehov%20mandar.jpg",
+      "description": "טרום בכורה ביום ראשון ה-24/11 לפני ההקרנה תתקיים הקדמה מפי המרצה רון פוגל. בלב סיפור זה, עומדת משפחה יהודית, שלושה אחים ואחיות, שארל, רוזמונד ואמה. טקס ההלוויה של אימם הוא הזדמנות לאיחוד בדירת ילדותם, ברחוב מנדר בפריז. כל האלמנטים המאפיינים את ההומור היהודי מופיעים בסרט ויוצרים מצב הנע בין הקומי לטראגי. כל אחד צולל בזיכרונותיו ומחפש, בין פרצי צחוק לדמע, כיצד להביע את אותה אהבה הדדית שהם חשים האחד כלפי השני.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2012",
+      "actors": "עמנואל דבוס, רישאר ברי, סנדרין קיברליאן",
+      "language": "צרפתית",
+      "director": "עידית סבולה",
+      "country": "צרפת"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2514"
-      },
-      "propertyMap": {
-        "title": "בית לחם - המלצת החודש - קולנוע ישראלי",
-        "duration": "100 דקות",
-        "movieId": "2514",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2514/f18_%D7%91%D7%99%D7%AA%20%D7%9C%D7%97%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.jpg",
-        "description": "רזי הוא רכז נפת בית לחם בשב\"כ. הוא מגייס לעזרתו את סנפור בן ה-15, אחיו הצעיר של מפקד גדודי חללי אל אקצא בעיר, ומשקיע זמן רב בבניית הקשר ביניהם. סנפור, שגדל תמיד בצילו של אחיו, מוצא ברזי חבר ודמות אב, מישהו שמאמין בו וסומך עליו. כאשר סנפור מנסה לתמרן בין הדרישות של רזי לנאמנותו לאחיו, מוצאים עצמם רזי וסנפור בסיטואציה בלתי אפשרית.",
-        "explorationDate": "Nov 6, 2013 11:00:41 AM",
-        "actors": "שאדי מרעי, צחי הלוי, הייתאם עומארי",
-        "year": "2013",
-        "language": "עברית/ערבית",
-        "director": "יובל אדלר",
-        "country": "ישראל"
-      }
+    "2540": {
+      "movieId": "2540",
+      "duration": "95 דקות",
+      "title": "צעירה ויפה - Young & Beautiful",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2540/f18_zeiira%20ve%20yafa.jpg",
+      "description": "מוגבל לצפייה מגיל 18 ומעלה מבט מרענן ונועז על התנסויותיה הראשונות של נערה במין ובאהבה, דרך ארבע עונות וארבעה שירים. בקיץ, יותר מסקרנות מאשר מאהבה, מאבדת איזבל את בתוליה על חוף ים. בסתיו היא מבקשת להבין עוד, ונרשמת לסוכנות של נערות ליווי בלי ידיעת הוריה ואחרי שעות הלימודים. בחורף קורה מקרה ואתו הבלבול, הפחד, המבוכה שלה, של הוריה ושל הסביבה. באביב - שוב צריך להמשיך את החיים.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2013",
+      "actors": "מארין ואכט, שרלוט רמפלינג",
+      "language": "צרפתית",
+      "director": "פרנסואה אוזון,",
+      "country": "צרפת"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2515"
-      },
-      "propertyMap": {
-        "title": "הקרב על הרחבה - Battle of the Year",
-        "duration": "110",
-        "movieId": "2515",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2515/f18_%D7%94%D7%A7%D7%A8%D7%91%20%D7%A2%D7%9C%20%D7%94%D7%A8%D7%97%D7%91%D7%94.jpg",
-        "description": "הקרב על הרחבה הוא האולימפיאדה של רקדני הברייקדאנס, טורניר שנתי שמושך אליו את הקבוצות הטובות ביותר מרחבי העולם, אבל הקבוצה האמריקאית לא זכתה מעל לחמש עשרה שנה. ענק ההיפ-הופ והרקדן לשעבר דאנטה מגייס את חברו בלייק שיאמן את נבחרת הרקדנים האמריקאית וביחד הם מרכיבים את נבחרת החלומות של הרקדנים הטובים ביותר באמריקה.",
-        "explorationDate": "Nov 6, 2013 10:56:51 AM",
-        "actors": "ג'וש הולווי, לז אלונזו, ג'וש פק",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "בנסון לי",
-        "country": "ישראל"
-      }
+    "2541": {
+      "movieId": "2541",
+      "duration": "100 דקות",
+      "title": "הרדיפה - Persécution",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2541/f18_aredifa.jpg",
+      "description": "דניאל בן 35 נרדף על ידי גבר זר שחודר לביתו לעיתים קרובות ומרגל אחריו. יום אחד הזר מוצא עצמו פנים אל פנים מול דניאל וחושף בפניו את המשיכה שלו אליו. דניאל חי לבד, אך הוא מבקר פעמיים או שלוש בשבוע את סוניה, איתה הוא מנהל מערכת יחסים מורכבת ומשונה. סוניה רוצה להמשיך את מערכת היחסים עם דניאל בדרכה שלה אך הוא מתעקש לקבל ממנה יותר.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2009",
+      "actors": "שרלוט גינזבורג, רומן דוריס, ז'אן-הוג אנגלאד",
+      "language": "צרפתית",
+      "director": "פטריס שרו",
+      "country": "צרפת"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2518"
-      },
-      "propertyMap": {
-        "title": "העמק הנעלם - קולנוע ישראלי",
-        "duration": "54 דקות",
-        "movieId": "2518",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2518/f18_aemek%20aneelam.jpg",
-        "description": {
-          "value": {
-            "value": "מאז 1967 מנסה מדינת ישראל לגרש את תושביה הפלסטינים של הבקעה, על מנת ליצור חיץ יהודי בין הגדה לבין ירדן. אך מי שסובלים מהכיבוש הישראלי הם דווקא התושבים הפלסטינים שדגלו בהתנגדות לא אלימה ובהצמדות לאדמה. תחילה נחקקו חוקים שאפשרו את הפקעת האדמות לצרכים צבאיים ובהמשך הועברו אל ההתנחלויות, אזורים נרחבים הוכרזו כשטחי אש, משאבות מים שהניחו הישראלים מעבירות את רוב המים של הבקעה אל תושביה היהודים ובארות המים התייבשו. הסרט משלב בין הצילומים המרהיבים של הבקעה לבין הטרגדיה האנושית של החיים בה."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:57:01 AM",
-        "year": "2013",
-        "language": "ערבית",
-        "director": "עירית גל",
-        "country": "ישראל"
-      }
+    "2542": {
+      "movieId": "2542",
+      "duration": "109 דקות",
+      "title": "מייד אין יזראל - מחווה לבמאי ארי פולמן",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2542/f18_made%20in%20israel.jpg",
+      "description": "אגון שולץ, הפושע הנאצי האחרון בעולם, מוסגר לישראל במסגרת הסכמי שלום בין ישראל לסוריה. איש עסקים עשיר ובן לניצולי שואה מוציא חוזה של שני מיליון דולר על ראשו של הנאצי ומגייס שני צוותים שמטרתם להביא את שולץ, להר הכי גבוה במדינה. שם, בקצה ההר המושלג, הוא מתכוון לירות בנאצי במו ידיו. העלילה הולכת ומסתבכת כאשר כל אחד מהצוותים מגלה אודות הצוות האחר.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2001",
+      "actors": "מנשה נוי, דרור קרן, ששון גבאי,",
+      "language": "עברית",
+      "director": "ארי פולמן",
+      "country": "ישראל"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2520"
-      },
-      "propertyMap": {
-        "title": "פינוקיו - מועדון הילדים - מדובב לעברית",
-        "duration": "82 דקות",
-        "movieId": "2520",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2520/f18_pinocchio.jpg",
-        "description": "הנגר הזקן ג'פטו יוצר בובת מריונטה שלהפתעתו יודעת לזוז ולדבר. הוא מחליט לקרוא לה בשם \"פינוקיו\" ומגדל אותה כאילו היתה בנו. פינוקיו הוא בובת עץ שובבה וסקרנית המסתבכת בלא מעט צרות. חלומו של פינוקיו הוא שיום אחד יהפוך להיות ילד אמיתי.",
-        "explorationDate": "Nov 6, 2013 10:57:44 AM",
-        "year": "2013",
-        "language": "מדובב לעברית",
-        "director": "אנז'ו דאלו",
-        "country": "איטליה"
-      }
+    "2543": {
+      "movieId": "2543",
+      "duration": "95 דקות",
+      "title": "עבודה טובה - Beau Travail",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2543/f18_avoda.jpg",
+      "description": "מחווה לבמאית קלייר דנידרמה המבוססת על ספרו של הרמן מלוויל \"בילי באד\". על רקע נופי אפריקה הקסומים, צעיר מבטיח המתגייס לשורות לגיון הזרים הצרפתי, מערער את שלוותו של מפקדו. המפקד עושה כל שביכולתו כדי למרר את חייו של החייל הצעיר ולהפכם לבלתי נסבלים. שילוב מופלא של ספרות, שירה וצילום הופכים את הרומן המיתי ליצירה פועמת וייחודית, היופי וההרסנות צמודים זה לזה בריקוד איטי ובלתי נשכח.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "1999",
+      "actors": "דניס לאבאן, מישל סובור, גרגואר קולין",
+      "language": "צרפתית",
+      "director": "קלייר דני",
+      "country": "צרפת"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2521"
-      },
-      "propertyMap": {
-        "title": "כנס העתידנים - The Congress",
-        "duration": "123 דקות",
-        "movieId": "2521",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2521/f18_kenes%20atar.jpg",
-        "description": "רובין רייט, שחקנית הוליוודית, מקבלת הצעה בלתי צפויה: אולפני פראמאונט מציעים לסרוק את כל כולה אל תוך המחשבים שלהם ולרכוש את הבעלות על דמותה. רובין חותמת על החוזה כדי שתוכל לתת לבנה החולה את כל הדרוש לו .עשרים שנה חולפות, כך גם תוקף החוזה, רובין היא אישה באמצע שנות השישים לחייה. היא חוזרת לסיבוב אחרון אל תוך עולם התעתועים והדמיון של הקולנוע העתידני והמצויר.",
-        "explorationDate": "Nov 6, 2013 10:57:51 AM",
-        "actors": "רובין רייט, הארוי קייטל, דני יוסטון, פול ג'יאמטי",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "ארי פולמן",
-        "country": "ישראל/גרמניה/צרפת/בלגיה/לוקסמבורג/פולין"
-      }
+    "2544": {
+      "movieId": "2544",
+      "duration": "100 דקות",
+      "title": "35 שוטים של רום - Shots Of Rum 35",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2544/f18_35_shots_of_rum.jpg",
+      "description": "מחווה לבמאית קלייר דני  ג'וזפין היא מורה צעירה שחיה עם אביה  ליונל, נהג רכבת עירוני. באותו בניין מתגוררים גם גבריאל- חברתו לשעבר של האב האלמן וגם צעיר בשם נואה, שמאוהב בג'וזפין. הסרט מתאר את מערכות היחסים בין הדמויות ובמיוחד את הקשר העדין בין האב לביתו.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2008",
+      "actors": "אלכס דסקה, מטי דיופ, ניקול דוג",
+      "language": "צרפתית",
+      "director": "קלייר דני",
+      "country": "צרפת/גרמניה"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2522"
-      },
-      "propertyMap": {
-        "title": "המשרת - The Butler",
-        "duration": "130 דקות",
-        "movieId": "2522",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2522/f18_The-Butler.jpg",
-        "description": "ססיל גיינס, משרת אפרו-אמריקני, שירת בבית הלבן למעלה משלושים וארבע שנים ברציפות. במהלך שמונה קדנציות נשיאותיות, ליווה ססיל מקרוב את הנשיאים ומשפחותיהם והיה עד לשנים הסוערות ביותר בהיסטוריה האמריקנית.",
-        "explorationDate": "Nov 6, 2013 10:58:27 AM",
-        "actors": "פורסט ויטאקר, ג'ון קיואק, אופרה ווינפרי.",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "לי דניאלס",
-        "country": "ארה\"ב"
-      }
+    "2545": {
+      "movieId": "2545",
+      "duration": "65 דקות",
+      "title": "הבנות - Las pibas",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2545/f18_las%20pibas.jpg",
+      "description": "שבוע הקולנוע הארגנטינאי שתי נשים צעירות מנסות לתקן את יחסי האהבה שלהן. הסרט מציג את הניגוד בין אהבה כמפלט לבין עבודה כשטח לניצול ואלימות, מבעד למבטו האינטימי והכנה של הבמאי ראול פרון.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2011",
+      "actors": "פיורלה ימינה אייטה, יוליאנה נרינה בוסטוס",
+      "language": "ספרדית",
+      "director": "ראול פרון",
+      "country": "ארגנטינה"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2523"
-      },
-      "propertyMap": {
-        "title": "החבר הערבי שלי - קולנוע ישראלי",
-        "duration": "52 דקות",
-        "movieId": "2523",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2523/f18_ahaver%20aaravi%20sheli.jpg",
-        "description": "אחרי שהות בחו\"ל חוזרת נגה לתל אביב ומגלה שחברה הטוב, פארס תושב השטחים, אותו הכירה כשוהה בלתי חוקי בתל אביב, נעדר. דאגה לחייו מובילה אותה למסע הזוי ומפתיע עד לכפר הולדתו קיבייה, בלב השטחים הכבושים.",
-        "explorationDate": "Nov 6, 2013 10:57:38 AM",
-        "year": "2012",
-        "language": "עברית",
-        "director": "נגה נצר",
-        "country": "ישראל"
-      }
+    "2546": {
+      "movieId": "2546",
+      "duration": "90 דקות",
+      "title": "וואלס עם באשיר - מחווה לבמאי ארי פולמן",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2546/f18_vals.jpg",
+      "description": "סרט מסע מצויר, בנבכי התודעה של הבמאי והתסריטאי ארי פולמן, המנסה להתחקות אחר שלושה ימים במלחמת לבנון הראשונה שנמחקו מזיכרונו.",
+      "explorationDate": "2013-11-06-10.59",
+      "year": "2008",
+      "language": "עברית",
+      "director": "ארי פולמן",
+      "country": "ישראל"
     },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2524"
-      },
-      "propertyMap": {
-        "title": "אין מקום על פני האדמה - No Place on Earth",
-        "duration": "82 דקות",
-        "movieId": "2524",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2524/f18_en%20makom.jpg",
-        "description": "בשנת 1993, במהלך חפירה במערות הענק באוקראינה, מצא החוקר כריסטופר ניקולא כפתורים, נעליים ומפתח ישן לבית. בין התושבים המקומיים, נפוצה השמועה כי במהלך מלחמת העולם השנייה, הסתתרו במערה קומץ יהודים ועל ידי כך הצליחו להינצל מגורל זהה לזה של שאר היהודים באזור. במהלך תשע השנים שבאו אחרי הגילוי, איתרו ניקולא ובמאית הסרט ג'אנט טוביאס, כשלושים ושמונה ניצולים אשר שהו במערה שמונה עשר חודשים, זה הסיפור שלהם.",
-        "explorationDate": "Nov 6, 2013 10:57:57 AM",
-        "year": "2012",
-        "language": "אנגלית",
-        "director": "ג'אנט טוביאס",
-        "country": "ארה\"ב, גרמניה, בריטניה."
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2525"
-      },
-      "propertyMap": {
-        "title": "בשורות - מחווה לפסטיבל הבינלאומי לקולנוע נשי ברחובות 2013",
-        "duration": "63 דקות",
-        "movieId": "2525",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2525/f18_bsorot.jpg",
-        "description": "בשוֹרוֹת הוא קונצרט לשבעה קולות נשים. נקודות המוצא שלהן הן הבשורות להגר, שרה ומריה על הולדת בניהם. את החוטים שהנשים מושכות מהטקסטים בתנ\"ך, בברית החדשה ובקוראן, הן טוות למארג של פירושים ואסוציאציות אישיות. כך הן מדברות על הביוגרפיות והמיתוסים הפרטיים שלהן כמו גם על הולדת התמונה בעולם הנוצרי או הולדת השיר בעולם היווני.",
-        "explorationDate": "Nov 6, 2013 10:57:12 AM",
-        "year": "2012",
-        "language": "עברית/צרפתית/ערבית",
-        "director": "נורית אביב",
-        "country": "ישראל/צרפת/בלגיה"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2526"
-      },
-      "propertyMap": {
-        "title": "סודות של אמצע הקיץ + הרצאה - A La Verticale De L'ete",
-        "duration": "108 דקות",
-        "movieId": "2526",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2526/f18_sodot.jpg",
-        "description": {
-          "value": {
-            "value": "סיפורי מסע בעקבות סרטים: סודות של אמצע הקיץ  לפני ההקרנה תתקיים הרצאה מפי יובל ארד בנושא: וייטנאם וקמבודיה - שתי מדינות יפהפיות שלא נהרסו תחת גלגלי הקדמה, שופעות אתרי טבע ותרבות, מטבח מגוון, שווקים צבעוניים, ארכיטקטורה קולוניאלית, קבוצות אתניות רבות ועוד. יוקרן הסרט: סודות של אמצע הקיץ שלוש אחיות נפגשות לרגל יום השנה למות אמן. שונג, הבכורה, מנהלת מסעדה בהאנוי. לין, הצעירה, עובדת אצלה כמלצרית. אחותן האמצעית, קאהן, נישאת על גלי האושר של נישואיה הטריים והריונה המתקדם. המפגש המשפחתי משמח ומקרב בין האחיות למרות שכל אחת מהן מסתירה סוד מפני האחרות. סוד הקשור במערכות היחסים בחייהן. מחיר כרטיס - מנויים: 20 ₪, רגיל: 30 ₪."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:56:46 AM",
-        "actors": "טראו נו יו קה, נו קוין נגויין , לה קהאן",
-        "year": "2000",
-        "language": "ויטנאמית",
-        "director": "טראן אן האנג",
-        "country": "וייטנאם/צרפת/גרמניה"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2527"
-      },
-      "propertyMap": {
-        "title": "פתיחת התערוכה : טלאים צורות וצבעים -",
-        "movieId": "2527",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2527/f18_tlaiim%202.JPG",
-        "description": {
-          "value": {
-            "value": "       \"טלאים - צורות וצבעים \"                   תערוכה קבוצתית פתיחה חגיגית ביום רביעי 13/11 בשעה 19:00 בתוכנית: 19:00 פתיחת התערוכה וכיבוד קל. 19:45 דברי פתיחה. 20:00 הקרנת הסרט \"מעשה בשמיכת טלאים\". .קבוצת מטליאות ת\"א קיימת קצת יותר משנה, וזו התערוכה הקבוצתית המשותפת הראשונה שלה .עבודות הטלאים אשר יוצגו בתערוכה יאפשרו הצצה לעולם יצירה ייחודי ועשיר בסיום התערוכה חברות הקבוצה יתרמו חמישה שטיחי קיר מעשה ידן , לסינמטק שדרות, כהוקרה לתושבי שדרות והדרום שמות חברות הקבוצה: חנה אבני/ דליה אופיר/ אירנה אלמוגי/ יהודית בן עזר/ רות וולנברג/ אמירה וישינסקי/ רבקה ורסנו/ ניצה חזקיהו/ אינגה כהן/ ורי כוגן/ מינה ירשנסקי/ ציונה ערוב/ סימונה פלד/ עדה פרנקל-מניס/ ורדה קרת/ דנית רופא/ אילנה שמש  הינכם מוזמנים, הכניסה חופשית."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:57:25 AM"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2528"
-      },
-      "propertyMap": {
-        "title": "מעשה בשמיכת טלאים - How To Make An American Quilt",
-        "duration": "109 דקות",
-        "movieId": "2528",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2528/f18_maase%20be%20smihat%20tlaiim%202.jpg",
-        "description": "פין מסיימת את המאסטר שלה באוניברסיטה לפני חתונתה עם סאם, סטודנט צעיר ושאפתן. סוף הלימודים בשילוב עם קיץ מזיע במיוחד קורצים לפין לעצור לרגע את תוכניות החתונה ולנפץ את כבלי השמרנות המחייבים. היא נוסעת לסבתה, ויחד עם חברות נוספות למעגל הסריגה הן לומדות משהו על חופש ונשיות. הקרנה מיוחדת במסגרת פתיחת התערוכה: \"טלאים - צורות וצבעים\". הינכם מוזמנים, הכניסה חופשית.",
-        "explorationDate": "Nov 6, 2013 10:57:28 AM",
-        "actors": "וינונה ריידר, אן בנקרופט, אלן ברונשטיין",
-        "year": "1995",
-        "language": "אנגלית",
-        "director": "ג'וסלין מורהאוס",
-        "country": "ארה\"ב"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2529"
-      },
-      "propertyMap": {
-        "title": "אסירים - Prisoners",
-        "duration": "150 דקות.",
-        "movieId": "2529",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2529/f18_asirim.jpg",
-        "description": "הבחירה שלכם בפייסבוק כאשר בתו בת ה-6 של קלר דובר וחברתה הטובה נעלמות, הוא לוקח את העניינים לידיים ומתחקה אחר החוטף בזמן שהמשטרה בוחנת מספר נתיבי חקירה. כאשר החקירה מסתבכת ומתארכת והלחץ הולך וגובר, נשאלת השאלה, כמה? רחוק יהיה האב הנואש מוכן ללכת כדי להגן על משפחתו.",
-        "explorationDate": "Nov 6, 2013 10:59:07 AM",
-        "actors": "יו ג'קמן, ג'ק ג'ילנהול, טרנס האוורד, פול דאנו",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "דני וילנוב",
-        "country": "ארה\"ב"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2530"
-      },
-      "propertyMap": {
-        "title": "קפטן פיליפס - Captain Phillips",
-        "duration": "132 דקות",
-        "movieId": "2530",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2530/f18_captain-phillips.jpg",
-        "description": "סיפור חטיפתה של ה\"אלבמה\", ספינת מטען אמריקאית ע\"י שודדי ים סומלים בשנת 2009. הסרט מתמקד במערכת היחסים בין המפקד של ה\"אלבמה\", קפטן ריצ'רד פיליפס, ומפקד הסומלים – מיוז. כששניהם נמצאים במסלול התנגשות בלתי נמנע ליד חופי סומליה הם מוצאים עצמם משלמים את המחיר עבור כוחות כלכליים שמחוץ לשליטתם.",
-        "explorationDate": "Nov 6, 2013 10:59:21 AM",
-        "actors": "טום הנקס, קתרין קיינר, כריסטופר סטדוליס",
-        "year": "2013",
-        "language": "אנגלית",
-        "director": "פול גרינגראס",
-        "country": "ארה\"ב"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2531"
-      },
-      "propertyMap": {
-        "title": "קוונטין טרנטינו + ג'אנגו ללא מעצורים - Django Unchained",
-        "duration": "165 דקות",
-        "movieId": "2531",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2531/f18_jango.jpg",
-        "description": {
-          "value": {
-            "value": "מועדון הסרט המופרע  ערב חד פעמי שיוקדש לסיפור חייו וחוש ההומור של הבמאי, תסריטאי ומפיק, קוונטין טרנטינו. לסיום יוקרן סרטו האחרון:  ג'אנגו ללא מעצורים הסרט מתרחש בארצות-הברית של טרום מלחמת האזרחים, בתקופת העבדות. צייד ראשים גרמני קונה את חירותו של עבד על מנת שזה יסייע לו במציאתם של צמד אחים נודעים לשמצה אחריהם הוא רודף. בתמורה, הוא מבטיח לעזור לו לחלץ את אשתו המוחזקת כשפחה באחוזתו של בעל מטעים רשע במיסיסיפי. מנחה:  אלון גור אריה - במאי, תסריטאי ומרצה לקולנוע. מחיר כרטיס: 30 ₪ (לכולם) , מנוי: כניסה חופשית."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:58:35 AM",
-        "actors": "ג'יימי פוקס, כריסטוף וולץ, קרי וושינגטון",
-        "year": "2012",
-        "language": "אנגלית",
-        "director": "קוונטין טרנטינו",
-        "country": "ארה\"ב"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2532"
-      },
-      "propertyMap": {
-        "title": "שביל הזעם - קלאסיקה קולנועית - Badlands",
-        "duration": "95 דקות",
-        "movieId": "2532",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2532/f18_shvil%20azam.jpg",
-        "description": {
-          "value": {
-            "value": "ביום שלישי ה-19.11 לפני ההקרנה תתקיים הרצאה מפי שני קיניסו, תלמיד כיתה יב' בבית הספר נופי הבשור של המועצה האזורית אשכול ותלמיד במגמת הקולנוע שם. ההקדמה תעסוק ביצירתו של מאליק (במאי של יצירות מופת כמו \"ימים ברקיע\" ו\"עץ החיים\") וייחודה. כמו כן על אותו גל קולנועי חדש שפרץ בקולנוע האמריקאי בשנות ה-70 ושביל הזעם הוא חלק ממנו. קיט, פועל ניקיון בן 25, צעיר ומרדן, מתאהב בהולי, תלמידת תיכון מלאכית בת 15. התנגדותו של אביה לקשר ביניהם גורמת להתפרצות אלימה. קיט יורה בו לעיני בתו, מעלה את ביתם באש, ונמלט עם אהובתו הקטינה למסע הרג."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:59:27 AM",
-        "actors": "מרטין שין, סיסי ספייסק",
-        "year": "1973",
-        "language": "אנגלית",
-        "director": "טרנס מאליק",
-        "country": "ארה\"ב"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2533"
-      },
-      "propertyMap": {
-        "title": "קלרה הקדושה - מחווה לבמאי ארי פולמן",
-        "duration": "85 דקות",
-        "movieId": "2533",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2533/f18_clara.jpg",
-        "description": "נערה צעירה בשם קלרה זוכה לכוחות על-טבעיים ומסוגלת לנבא את העתיד. כוחותיה המיוחדים הופכים משמעותיים כאשר אירועים שונים ומשונים פוקדים את העיירה בה היא גרה, בימים האחרונים של המאה ה-20, ואף אחד אינו יודע מה עומד להתרחש. כשהעולם עומד על סף אנדרלמוסיה, קלרה נאלצת לבחור בין שמירה על כוחותיה העל טבעיים ובין אהבת נעורים ראשונה.",
-        "explorationDate": "Nov 6, 2013 10:58:11 AM",
-        "actors": "לוסי דובינצ'יק, חליל אלוהב, יגאל נאור",
-        "year": "1996",
-        "language": "עברית",
-        "director": "ארי פולמן ואורי סיון",
-        "country": "ישראל"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2534"
-      },
-      "propertyMap": {
-        "title": "הנסיכה מונונוקי - Princess Mononoke - סדרת סרטי מנגה",
-        "duration": "131 דקות",
-        "movieId": "2534",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2534/f18_princess.jpg",
-        "description": "נסיך צעיר נדבק במחלה חשוכת מרפא אחרי שהותקף על ידי אל חזירי הבר. הוא יוצא לחפש את אל הצבאים מהיער הקסום, היחיד שיכול להציל את חייו, ונקלע למאבק בין עיירה המייצרת ברזל לבין חיות היער המונהגות על ידי הנסיכה מונונוקי, נערה שגודלה על ידי זאבים. האנימטור הייאו מיאזאקי מביים אגדה בעלת מסרים אקולוגיים, פמיניסטיים ואנטי מלחמתיים.",
-        "explorationDate": "Nov 6, 2013 10:58:15 AM",
-        "actors": "דיבוב: יוג'י מאטסודה, יוריקו אישידה, יוקו טנאקה,",
-        "year": "1999",
-        "language": "יפנית",
-        "director": "הייאו מיאזקי",
-        "country": "יפן"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2535"
-      },
-      "propertyMap": {
-        "title": "דורית ראובני במופע: אדם צובר זכרונות -",
-        "movieId": "2535",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2535/f18_dorit.jpg",
-        "description": "ערב שירה מחמם ומרגש של שירי ארץ ישראל היפה בשיתוף הקהל עם הקלאסיקות: יש פרחים, היום היום, האיש מן הבקעה, מסביב למדורה, אדם צובר זכרונות ועוד.. גיטרה קלאסית: דורית ראובני קלידים: אסי מנדל סקסופון: לירן אורפז כרטיסים: מכירה מוקדמת: מנויים - 30 ש\"ח, רגיל: 40 ש\"ח. ביום האירוע: מנויים - 40 ש\"ח, רגיל: 50 ש\"ח.",
-        "explorationDate": "Nov 6, 2013 10:58:41 AM"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2536"
-      },
-      "propertyMap": {
-        "title": "האתנוגרף - El Etnógrafo",
-        "duration": "89 דקות",
-        "movieId": "2536",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2536/f18_el-etnografo.jpg",
-        "description": "שבוע הקולנוע הארגנטינאי  האנתרופולוג הבריטי ג'ון פאלמר הגיע לשבט הוויצ'י בצפון ארגנטינה לפני 30 שנה. כיום הוא נשוי לאישה מהקהילה ולהם חמישה בנים. בתור היועץ המשפטי של קהילת ה\"לפאצ'ו מוצ'ו\", כחלק מהמשפחה, הוא עובד על שחרורו של קאטו, חבר מהשבט שנמצא בכלא כבר 5 שנים ומחכה לשימוע בעל פה בקשר לאישומים של התעללות בבתה של אשתו.  ",
-        "explorationDate": "Nov 6, 2013 10:58:48 AM",
-        "year": "2012",
-        "language": "ספרדית/אנגלית/וויצ'י",
-        "director": "יוליסס רוסל",
-        "country": "ארגנטינה"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2537"
-      },
-      "propertyMap": {
-        "title": "ויולה + רוזלינדה - שבוע הקולנוע הארגנטינאי",
-        "movieId": "2537",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2537/f18_viola.jpg",
-        "description": {
-          "value": {
-            "value": "שבוע הקולנוע הארגנטינאי  Violaויולה ססיליה היא שחקנית המבלה את ימיה בחזרות על הקומדיה השייקספירית \"הלילה ה-12\" בתיאטרון קטן בבואנוס איירס. ויולה מבלה את ימיה על אופניים בשליחויות של סרטים פיראטיים. סברינה מחברת בין שני הסיפורים הללו. \"ויולה\" מחבר ללא דעה קדומה תיאוריות שונות של תשוקה, חלומות, שירה ובדיה בעולם של נשים שייקספיריות שבו המסתורין אינו פתור אבל האהבה זורמת ללא שליטה. בימוי: מתיאס פיניירו, משחק: אגוסטינה מוניוז, מריה וילאר, צילום: פרננדו לוקט, מוזיקה: ג'ון אלוורד, חוליאן דג'ו, ארגנטינה, 2012, עלילתי, 65 דקות, ספרדית, תרגום לעברית.  רוזלינדה  Rosalinda שני מקצבים שונים באותו הגוף. הראשון של שחקנית והשני של הדמות שאותה היא משחקת. לואיזה ורוזלינדה חולקות את אותו הגוף אך לא את אותו מקצב. יום אחד בפרברי בואנוס איירס קבוצת שחקנים עושה חזרות על המחזה \"כטוב בעיניכם\" של שייקספיר. במהלך אותו היום, האהבה עולה והתפקידים בין השחקנית והדמות מתערבבים. בימוי: מתיאס פיניירו, משחק: אגוסטינה מוניוז, מריה וילאר, צילום: פרננדו לוקט, מוזיקה:אמיליו אגלסיאס, ארגנטינה/דרום קוריאה, 2011, עלילתי, 43 דקות, ספרדית, תרגום לעברית ואנגלית."
-          }
-        },
-        "explorationDate": "Nov 6, 2013 10:59:08 AM"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2538"
-      },
-      "propertyMap": {
-        "title": "שוקולד 1988 - Chocolat - מחווה לבמאית קלייר דני",
-        "duration": "105 דקות",
-        "movieId": "2538",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2538/f18_chocolat.jpg",
-        "description": "העלילה מתרחשת באפריקה בסוף עידן הקולוניאליזם הצרפתי. פראנס היא צעירה צרפתייה החוזרת למערב אפריקה להרהר בימי ילדותה. בקולוניה הצרפתית היא הורגלה לחיים נוחים, בהם הלבנים שולטים. הזיכרון החזק ביותר שלה הוא של אחד ממשרתי הבית, גבר אציל, אינטליגנטי ותמיר, היא מתארת את מערכת היחסים איתו בחברה גזענית ויצרית.",
-        "explorationDate": "Nov 6, 2013 10:58:55 AM",
-        "actors": "איזאק דה בנקולה, ג'וליה בושי, פרנסואה קלוזה",
-        "year": "1988",
-        "language": "צרפתית",
-        "director": "קלייר דני",
-        "country": "צרפת"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2539"
-      },
-      "propertyMap": {
-        "title": "רחוב מנדר - טרום בכורה - Rue Mandar",
-        "duration": "95 דקות",
-        "movieId": "2539",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2539/f18_rehov%20mandar.jpg",
-        "description": "טרום בכורה ביום ראשון ה-24/11 לפני ההקרנה תתקיים הקדמה מפי המרצה רון פוגל. בלב סיפור זה, עומדת משפחה יהודית, שלושה אחים ואחיות, שארל, רוזמונד ואמה. טקס ההלוויה של אימם הוא הזדמנות לאיחוד בדירת ילדותם, ברחוב מנדר בפריז. כל האלמנטים המאפיינים את ההומור היהודי מופיעים בסרט ויוצרים מצב הנע בין הקומי לטראגי. כל אחד צולל בזיכרונותיו ומחפש, בין פרצי צחוק לדמע, כיצד להביע את אותה אהבה הדדית שהם חשים האחד כלפי השני.",
-        "explorationDate": "Nov 6, 2013 11:00:34 AM",
-        "actors": "עמנואל דבוס, רישאר ברי, סנדרין קיברליאן",
-        "year": "2012",
-        "language": "צרפתית",
-        "director": "עידית סבולה",
-        "country": "צרפת"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2540"
-      },
-      "propertyMap": {
-        "title": "צעירה ויפה - Young & Beautiful",
-        "duration": "95 דקות",
-        "movieId": "2540",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2540/f18_zeiira%20ve%20yafa.jpg",
-        "description": "מוגבל לצפייה מגיל 18 ומעלה מבט מרענן ונועז על התנסויותיה הראשונות של נערה במין ובאהבה, דרך ארבע עונות וארבעה שירים. בקיץ, יותר מסקרנות מאשר מאהבה, מאבדת איזבל את בתוליה על חוף ים. בסתיו היא מבקשת להבין עוד, ונרשמת לסוכנות של נערות ליווי בלי ידיעת הוריה ואחרי שעות הלימודים. בחורף קורה מקרה ואתו הבלבול, הפחד, המבוכה שלה, של הוריה ושל הסביבה. באביב - שוב צריך להמשיך את החיים.",
-        "explorationDate": "Nov 6, 2013 11:00:11 AM",
-        "actors": "מארין ואכט, שרלוט רמפלינג",
-        "year": "2013",
-        "language": "צרפתית",
-        "director": "פרנסואה אוזון,",
-        "country": "צרפת"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2541"
-      },
-      "propertyMap": {
-        "title": "הרדיפה - Persécution",
-        "duration": "100 דקות",
-        "movieId": "2541",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2541/f18_aredifa.jpg",
-        "description": "דניאל בן 35 נרדף על ידי גבר זר שחודר לביתו לעיתים קרובות ומרגל אחריו. יום אחד הזר מוצא עצמו פנים אל פנים מול דניאל וחושף בפניו את המשיכה שלו אליו. דניאל חי לבד, אך הוא מבקר פעמיים או שלוש בשבוע את סוניה, איתה הוא מנהל מערכת יחסים מורכבת ומשונה. סוניה רוצה להמשיך את מערכת היחסים עם דניאל בדרכה שלה אך הוא מתעקש לקבל ממנה יותר.",
-        "explorationDate": "Nov 6, 2013 11:00:37 AM",
-        "actors": "שרלוט גינזבורג, רומן דוריס, ז'אן-הוג אנגלאד",
-        "year": "2009",
-        "language": "צרפתית",
-        "director": "פטריס שרו",
-        "country": "צרפת"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2542"
-      },
-      "propertyMap": {
-        "title": "מייד אין יזראל - מחווה לבמאי ארי פולמן",
-        "duration": "109 דקות",
-        "movieId": "2542",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2542/f18_made%20in%20israel.jpg",
-        "description": "אגון שולץ, הפושע הנאצי האחרון בעולם, מוסגר לישראל במסגרת הסכמי שלום בין ישראל לסוריה. איש עסקים עשיר ובן לניצולי שואה מוציא חוזה של שני מיליון דולר על ראשו של הנאצי ומגייס שני צוותים שמטרתם להביא את שולץ, להר הכי גבוה במדינה. שם, בקצה ההר המושלג, הוא מתכוון לירות בנאצי במו ידיו. העלילה הולכת ומסתבכת כאשר כל אחד מהצוותים מגלה אודות הצוות האחר.",
-        "explorationDate": "Nov 6, 2013 10:59:15 AM",
-        "actors": "מנשה נוי, דרור קרן, ששון גבאי,",
-        "year": "2001",
-        "language": "עברית",
-        "director": "ארי פולמן",
-        "country": "ישראל"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2543"
-      },
-      "propertyMap": {
-        "title": "עבודה טובה - Beau Travail",
-        "duration": "95 דקות",
-        "movieId": "2543",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2543/f18_avoda.jpg",
-        "description": "מחווה לבמאית קלייר דנידרמה המבוססת על ספרו של הרמן מלוויל \"בילי באד\". על רקע נופי אפריקה הקסומים, צעיר מבטיח המתגייס לשורות לגיון הזרים הצרפתי, מערער את שלוותו של מפקדו. המפקד עושה כל שביכולתו כדי למרר את חייו של החייל הצעיר ולהפכם לבלתי נסבלים. שילוב מופלא של ספרות, שירה וצילום הופכים את הרומן המיתי ליצירה פועמת וייחודית, היופי וההרסנות צמודים זה לזה בריקוד איטי ובלתי נשכח.",
-        "explorationDate": "Nov 6, 2013 10:59:21 AM",
-        "actors": "דניס לאבאן, מישל סובור, גרגואר קולין",
-        "year": "1999",
-        "language": "צרפתית",
-        "director": "קלייר דני",
-        "country": "צרפת"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2544"
-      },
-      "propertyMap": {
-        "title": "35 שוטים של רום - Shots Of Rum 35",
-        "duration": "100 דקות",
-        "movieId": "2544",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2544/f18_35_shots_of_rum.jpg",
-        "description": "מחווה לבמאית קלייר דני  ג'וזפין היא מורה צעירה שחיה עם אביה  ליונל, נהג רכבת עירוני. באותו בניין מתגוררים גם גבריאל- חברתו לשעבר של האב האלמן וגם צעיר בשם נואה, שמאוהב בג'וזפין. הסרט מתאר את מערכות היחסים בין הדמויות ובמיוחד את הקשר העדין בין האב לביתו.",
-        "explorationDate": "Nov 6, 2013 10:59:55 AM",
-        "actors": "אלכס דסקה, מטי דיופ, ניקול דוג",
-        "year": "2008",
-        "language": "צרפתית",
-        "director": "קלייר דני",
-        "country": "צרפת/גרמניה"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2545"
-      },
-      "propertyMap": {
-        "title": "הבנות - Las pibas",
-        "duration": "65 דקות",
-        "movieId": "2545",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2545/f18_las%20pibas.jpg",
-        "description": "שבוע הקולנוע הארגנטינאי שתי נשים צעירות מנסות לתקן את יחסי האהבה שלהן. הסרט מציג את הניגוד בין אהבה כמפלט לבין עבודה כשטח לניצול ואלימות, מבעד למבטו האינטימי והכנה של הבמאי ראול פרון.",
-        "explorationDate": "Nov 6, 2013 10:59:28 AM",
-        "actors": "פיורלה ימינה אייטה, יוליאנה נרינה בוסטוס",
-        "year": "2011",
-        "language": "ספרדית",
-        "director": "ראול פרון",
-        "country": "ארגנטינה"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2546"
-      },
-      "propertyMap": {
-        "title": "וואלס עם באשיר - מחווה לבמאי ארי פולמן",
-        "duration": "90 דקות",
-        "movieId": "2546",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2546/f18_vals.jpg",
-        "description": "סרט מסע מצויר, בנבכי התודעה של הבמאי והתסריטאי ארי פולמן, המנסה להתחקות אחר שלושה ימים במלחמת לבנון הראשונה שנמחקו מזיכרונו.",
-        "explorationDate": "Nov 6, 2013 10:59:48 AM",
-        "year": "2008",
-        "language": "עברית",
-        "director": "ארי פולמן",
-        "country": "ישראל"
-      }
-    },
-    {
-      "key": {
-        "parentKey": {
-          "kind": "movies",
-          "id": 0,
-          "name": "movies"
-        },
-        "kind": "movie",
-        "id": 0,
-        "name": "2547"
-      },
-      "propertyMap": {
-        "title": "בית ספר נורמלי - Escuela normal",
-        "duration": "88 דקות",
-        "movieId": "2547",
-        "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2547/f18_Escuela_Normal_.jpg",
-        "description": "שבוע הקולנוע הארגנטינאי מהו איגוד התלמידים? מה הוא עושה? איך הם מתייחסים לנושא של שיפור בי\"ס. אלו הן רק מקצת הדאגות שיש לתלמידים בבי\"ס החמישי של פראנה. הבמאית סלינה מורגה, בסרטה התיעודי הראשון, בוחרת לחקור במשך שנה את החוויה הפוליטית הראשונה של תלמידים צעירים אלו, בזמן שהם מחליטים על עתידם.",
-        "explorationDate": "Nov 6, 2013 11:00:18 AM",
-        "year": "2012",
-        "language": "ספרדית",
-        "director": "סלינה מורגה",
-        "country": "ארגנטינה"
-      }
+    "2547": {
+      "movieId": "2547",
+      "duration": "88 דקות",
+      "title": "בית ספר נורמלי - Escuela normal",
+      "image_url": "http://www.sderot-cin.org.il/media/sal/movies2009/2547/f18_Escuela_Normal_.jpg",
+      "description": "שבוע הקולנוע הארגנטינאי מהו איגוד התלמידים? מה הוא עושה? איך הם מתייחסים לנושא של שיפור בי\"ס. אלו הן רק מקצת הדאגות שיש לתלמידים בבי\"ס החמישי של פראנה. הבמאית סלינה מורגה, בסרטה התיעודי הראשון, בוחרת לחקור במשך שנה את החוויה הפוליטית הראשונה של תלמידים צעירים אלו, בזמן שהם מחליטים על עתידם.",
+      "explorationDate": "2013-11-06-11.00",
+      "year": "2012",
+      "language": "ספרדית",
+      "director": "סלינה מורגה",
+      "country": "ארגנטינה"
     }
-  ]
+  }
 }

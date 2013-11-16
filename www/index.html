@@ -6,33 +6,35 @@
 <script src="js/screenings.js"> </script>
 <script>
 $(document).ready(function(){
-		var request=$.ajax({
-  			type: "GET",
-//  			url: "http://2.cinema-sderot.appspot.com/getSchedule",
-			url: "schedule_example.json",
-  			dataType: "json",
-  			crossDomain: true
-		});
-		
-		request.done(function( result ) {
-			//$("div").append("<div class=\"screeningContainer\" id=\"screeningContainer\">");
-			for (movie in result.movies) {
-				$("#screeningContainer").append("<div class=\"screening\">"+result.movies[movie].propertyMap.title+"</div>");
-			}
-			//$("div").append("</div>");
-						
-		  //$("div").append("DONE"+msg.movies+"OK");
-		});
-		 
-		request.fail(function( jqXHR, textStatus ) {
-		  $("div").append("Request failed: " + textStatus);
-		});
+        var request=$.ajax({
+              type: "GET",
+            url: "schedule_example.json",    //"http://2.cinema-sderot.appspot.com/getSchedule",
+              dataType: "json",
+              crossDomain: true
+        });
+        
+        request.done(function( result ) {
+            for (var i = 0; i < result.screenings.length; i++) {
+                var screening      = result.screenings[i];
+                var screeningDate  = screening.date;
+                var movieId        = screening.movieId;
+                var movie          = result.movies[movieId];
+                var title          = movie.title;
+                $("#screeningContainer").append("<div class=\"screening\">"+screeningDate+" "+title);
+                //$("#screeningContainer").append("<div class=\"screening\">"+movieId);
+                $("#screeningContainer").append("</div>");
+            }
+        });
+         
+        request.fail(function( jqXHR, textStatus ) {
+          $("div").append("Request failed: " + textStatus);
+        });
 });
 </script>
 </head>
 <body>
 <div id="screeningContainer">
-	
+    
 </div>
 </body>
 </html>
