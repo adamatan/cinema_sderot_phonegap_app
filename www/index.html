@@ -4,11 +4,14 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <script src="js/jquery.min.js"> </script>
 <script src="js/screenings.js"> </script>
+<script src="js/strftime-min.js"> </script>
 <script>
+    
+    
 $(document).ready(function(){
         var request=$.ajax({
               type: "GET",
-            url: "schedule_example.json",    //"http://2.cinema-sderot.appspot.com/getSchedule",
+              url: "schedule_example.json",    //"http://2.cinema-sderot.appspot.com/getSchedule",
               dataType: "json",
               crossDomain: true
         });
@@ -20,16 +23,23 @@ $(document).ready(function(){
                 var movieId        = screening.movieId;
                 var movie          = result.movies[movieId];
                 var title          = movie.title;
-                $("#screeningContainer").append("<div class=\"screening\">"+screeningDate+" "+title);
-                //$("#screeningContainer").append("<div class=\"screening\">"+movieId);
-                $("#screeningContainer").append("</div>");
+                var movieContainerDivId = createUniqueDivId(screeningDate, movieId); 
+                var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
+                $("#screeningContainer").append("<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+screeningDate+" "+title+"\n</div>");
+                
+                $( movieContainerDivIdSelector ).append("<div class=\"inner\"><img src=\""+movie.image_url+"\"/></div>");
             }
         });
          
         request.fail(function( jqXHR, textStatus ) {
           $("div").append("Request failed: " + textStatus);
         });
+    
+        
+        
 });
+    
+
 </script>
 </head>
 <body>
