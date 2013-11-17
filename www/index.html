@@ -21,13 +21,42 @@ $(document).ready(function(){
                 var screening      = result.screenings[i];
                 var screeningDate  = screening.date;
                 var movieId        = screening.movieId;
+                
                 var movie          = result.movies[movieId];
                 var title          = movie.title;
+                var duration       = movie.duration;
+                var language       = movie.language;
+                var year           = movie.year;
+                var movieHour      = screeningDate.split('-')[3].replace('.',':');
+                var description    = movie.description;
+                
                 var movieContainerDivId = createUniqueDivId(screeningDate, movieId); 
                 var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
-                $("#screeningContainer").append("<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+screeningDate+" "+title+"\n</div>");
                 
-                $( movieContainerDivIdSelector ).append("<div class=\"inner\"><img width=\"90%\" src=\""+movie.image_url+"\"/></div>");
+                titleH1      = "<h1>"+movieHour+" "+title+"</h1>"
+                titleDiv     = "<div class=\"screeningTitle\">\n"+titleH1+"\n</div>";
+                
+                descriptionDiv = "<div class=\"movieDescription\">\n"+description+"\n</div>";
+                
+                metaDataDiv    = 
+                    "<div class=\"metadataContainer\">\n"+
+                        "<div class=\"duration metadata\">\n"+
+                            duration+
+                        "\n</div>"+
+                        "<div class=\"language metadata\">\n"+
+                            language+
+                        "\n</div>"+
+                        "<div class=\"year metadata\">\n"+
+                            year+
+                        "\n</div>"+
+                    "\n</div>\n";
+                
+                movieInfoDiv = "<div class=\"movieInfo\">\n"+titleDiv+metaDataDiv+descriptionDiv+"\n</div>";
+                imgDiv       = "<div class=\"movieImage\"><img width=\"100%\" src=\""+movie.image_url+"\"/></div>";
+                screeningDiv = "<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+"\n</div>";
+                $("#screeningContainer").append(screeningDiv);
+                
+                
             }
         });
          

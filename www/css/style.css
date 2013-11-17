@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+h1, .metadata{
+      font-family: "Alef Hebrew";               
+}
+
 #screeningContainer {
 	direction: rtl;
 	border: 1px solid;
@@ -7,4 +13,32 @@
 	border: 1px solid;
 	margin: 0px 0px 10px 0px;
 	padding: 10px 5px 10px 0px;
+}
+
+.movieImage {
+    margin: 0px 0px 10px 0px;
+    width:35%;
+}
+
+.movieInfo {
+    width: 64%;
+    padding: 0px 1% 0px 0px;
+    float: left;
+}
+
+.metadata {
+    width:33%;
+    font-size:2em;
+    margin: 0 auto;
+    float:right;
+}
+
+.metadataContainer {
+    width:100%;
+
+}
+
+.movieDescription {
+    width:100%;
+    padding-top:50px;
 }
