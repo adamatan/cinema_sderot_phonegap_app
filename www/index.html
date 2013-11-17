@@ -27,7 +27,7 @@ $(document).ready(function(){
                 var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
                 $("#screeningContainer").append("<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+screeningDate+" "+title+"\n</div>");
                 
-                $( movieContainerDivIdSelector ).append("<div class=\"inner\"><img src=\""+movie.image_url+"\"/></div>");
+                $( movieContainerDivIdSelector ).append("<div class=\"inner\"><img width=\"90%\" src=\""+movie.image_url+"\"/></div>");
             }
         });
          
