@@ -53,7 +53,8 @@ $(document).ready(function(){
                 
                 movieInfoDiv = "<div class=\"movieInfo\">\n"+titleDiv+metaDataDiv+descriptionDiv+"\n</div>";
                 imgDiv       = "<div class=\"movieImage\"><img width=\"100%\" src=\""+movie.image_url+"\"/></div>";
-                screeningDiv = "<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+"\n</div>";
+                clearDiv     = "\n<br class=\"clear\"/>";
+                screeningDiv = "<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+"\n"+clearDiv+"\n</div>";
                 $("#screeningContainer").append(screeningDiv);
                 
                 
