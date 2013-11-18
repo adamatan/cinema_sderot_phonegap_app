@@ -18,11 +18,12 @@ h1 {
 
 #screeningContainer {
 	direction: rtl;
-	border: 1px solid;
+	
 }
 
 .screening {
-	border: 1px solid;
+	//border: 1px;
+    border-radius: 30px; 
 	margin: 0px 0px 1% 0px;
 	padding: 1% 0.5% 1% 0%;
 }
