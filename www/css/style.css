@@ -22,7 +22,6 @@ h1 {
 }
 
 .screening {
-	//border: 1px;
     border-radius: 30px; 
 	margin: 0px 0px 1% 0px;
 	padding: 1% 0.5% 1% 0%;
@@ -40,6 +39,7 @@ h1 {
 .movieImage {
     margin: 0px 0px 1%x 0px;
     width:35%;
+    height:20%;
 }
 
 .movieInfo {
