@@ -1,7 +1,19 @@
 @import url(alefhebrew.css);
 
+body {
+    font-size: medium;
+}
+
 h1, .metadata{
-      font-family: "Alef Hebrew";               
+    font-family: "Alef Hebrew";
+}
+
+h1 {
+    font-size: 3vw;
+}
+
+.metadataContainer {
+    font-size: 1.2vw;
 }
 
 #screeningContainer {
