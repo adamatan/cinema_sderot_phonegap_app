@@ -1,11 +1,12 @@
 @import url(alefhebrew.css);
 
 body {
-    font-size: medium;
+    direction: rtl;
 }
 
 h1, .metadata{
     font-family: "Alef Hebrew";
+    margin-top:0px;
 }
 
 h1 {
@@ -16,14 +17,9 @@ h1 {
     font-size: 1em;
 }
 
-#screeningContainer {
-	direction: rtl;
-	
-}
-
 .screening {
     border-radius: 30px; 
-	margin: 0px 0px 1% 0px;
+	margin: 0px 0px 0% 0px;
 	padding: 1% 0.5% 1% 0%;
 }
 
@@ -34,7 +30,6 @@ h1 {
 .screeningEven {
     background-color: #f0ffff;
 }
-
 
 .movieImage {
     margin: 0px 0px 1%x 0px;
@@ -56,12 +51,11 @@ h1 {
 
 .metadataContainer {
     width:100%;
-
 }
 
 .movieDescription {
     width:100%;
-    padding-top:2%;
+    
     text-overflow: ellipsis;
 	white-space: nowrap;
 	overflow: hidden;
