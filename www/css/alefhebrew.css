@@ -1,0 +1,23 @@
+/* 
+ * Alef Hebrew (Hebrew) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Alef Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../Alef/Alef-Webfont//Alef-Regular.eot);
+  src: url(../Alef/Alef-Webfont//Alef-Regular.eot?#iefix) format('embedded-opentype'),
+       url(../Alef/Alef-Webfont//Alef-Regular.woff2) format('woff2'),
+       url(../Alef/Alef-Webfont//Alef-Regular.woff) format('woff'),
+       url(../Alef/Alef-Webfont//Alef-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alef Hebrew';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../Alef/Alef-Webfont//Alef-Bold.eot);
+  src: url(../Alef/Alef-Webfont//Alef-Bold.eot?#iefix) format('embedded-opentype'),
+       url(../Alef/Alef-Webfont//Alef-Bold.woff2) format('woff2'),
+       url(../Alef/Alef-Webfont//Alef-Bold.woff) format('woff'),
+       url(../Alef/Alef-Webfont//Alef-Bold.ttf) format('truetype');
+}
