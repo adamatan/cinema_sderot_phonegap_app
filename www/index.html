@@ -29,6 +29,11 @@ $(document).ready(function(){
                 var year           = movie.year;
                 var movieHour      = screeningDate.split('-')[3].replace('.',':');
                 var description    = movie.description;
+                if (i%2==0) {
+                    screeningColorClass="screeningOdd";
+                } else {
+                    screeningColorClass="screeningEven";
+                }
                 
                 var movieContainerDivId = createUniqueDivId(screeningDate, movieId); 
                 var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
@@ -54,7 +59,8 @@ $(document).ready(function(){
                 movieInfoDiv = "<div class=\"movieInfo\">\n"+titleDiv+metaDataDiv+descriptionDiv+"\n</div>";
                 imgDiv       = "<div class=\"movieImage\"><img width=\"100%\" src=\""+movie.image_url+"\"/></div>";
                 clearDiv     = "\n<br class=\"clear\"/>";
-                screeningDiv = "<div class=\"screening\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+clearDiv+"\n</div>";
+                screeningDiv = "<div class=\"screening "+screeningColorClass+
+                    "\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+clearDiv+"\n</div>";
                 $("#screeningContainer").append(screeningDiv);
                 
                 
