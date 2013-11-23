@@ -5,6 +5,10 @@ body {
     font-size:small;
 }
 
+#spinnerDiv {
+    min-height:200px;
+}
+
 h1, .metadata{
     font-family: "Alef Hebrew";
     margin:0px;
