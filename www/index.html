@@ -28,76 +28,73 @@ var opts = {
   top: 'auto', // Top position relative to parent in px
   left: 'auto' // Left position relative to parent in px
 };
-var target = document.getElementById("spinnerDiv");
-var spinner = new Spinner(opts).spin(target);
+   var target = document.getElementById("spinnerDiv");
+   var spinner = new Spinner(opts).spin(target);
 });
     
-$(document).ready(function(){
-        var request=$.ajax({
-              type: "GET",
-              //url: "schedule_example.json",
-              url: "http://2.cinema-sderot.appspot.com/getSimpleJson",
-              dataType: "json",
-              crossDomain: true
-        });
-        
-        request.done(function( result ) {
-            for (var i = 0; i < result.screenings.length; i++) {
-                var screening      = result.screenings[i];
-                var screeningDate  = screening.date;
-                var movieId        = screening.movieId;
-                
-                var movie          = result.movies[movieId];
-                var title          = movie.title;
-                var duration       = movie.duration;
-                var language       = movie.language;
-                var year           = movie.year;
-                var movieHour      = screeningDate.split('-')[3].replace('.',':');
-                var description    = movie.description;
-                if (i%2==0) {
-                    screeningColorClass="screeningOdd";
-                } else {
-                    screeningColorClass="screeningEven";
-                }
-                
-                var movieContainerDivId = createUniqueDivId(screeningDate, movieId); 
-                var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
-                
-                titleH1      = "<h1>"+movieHour+" "+title+"</h1>"
-                titleDiv     = "<div class=\"screeningTitle\">\n"+titleH1+"\n</div>";
-                
-                descriptionDiv = "<div class=\"movieDescription\">\n"+description+"\n</div>";
-                
-                metaDataDiv    = 
-                    "<div class=\"metadataContainer\">\n"+
-                        "<div class=\"duration metadata\">\n"+
-                            duration+
-                        "\n</div>"+
-                        "<div class=\"language metadata\">\n"+
-                            language+
-                        "\n</div>"+
-                        "<div class=\"year metadata\">\n"+
-                            year+
-                        "\n</div>"+
-                    "\n</div>\n";
-                
-                movieInfoDiv = "<div class=\"movieInfo\">\n"+titleDiv+metaDataDiv+descriptionDiv+"\n</div>";
-                imgDiv       = "<div class=\"movieImage\"><img width=\"100%\" src=\""+movie.image_url+"\"/></div>";
-                clearDiv     = "\n<br class=\"clear\"/>";
-                screeningDiv = "<div class=\"screening "+screeningColorClass+
-                    "\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+clearDiv+"\n</div>";
-                $("#screeningContainer").append(screeningDiv);
-            }
-            $("#spinnerDiv").remove();
-        });
-         
-        request.fail(function( jqXHR, textStatus ) {
-          $("div").append("Request failed: " + textStatus);
-        });
-    
-        
-        
-});
+//$(document).ready(function(){
+//        var request=$.ajax({
+//              type: "GET",
+//              //url: "schedule_example.json",
+//              url: "http://2.cinema-sderot.appspot.com/getSimpleJson",
+//              dataType: "json",
+//              crossDomain: true
+//        });
+//        
+//        request.done(function( result ) {
+//            for (var i = 0; i < result.screenings.length; i++) {
+//                var screening      = result.screenings[i];
+//                var screeningDate  = screening.date;
+//                var movieId        = screening.movieId;
+//                
+//                var movie          = result.movies[movieId];
+//                var title          = movie.title;
+//                var duration       = movie.duration;
+//                var language       = movie.language;
+//                var year           = movie.year;
+//                var movieHour      = screeningDate.split('-')[3].replace('.',':');
+//                var description    = movie.description;
+//                if (i%2==0) {
+//                    screeningColorClass="screeningOdd";
+//                } else {
+//                    screeningColorClass="screeningEven";
+//                }
+//                
+//                var movieContainerDivId = createUniqueDivId(screeningDate, movieId); 
+//                var movieContainerDivIdSelector = "#"+movieContainerDivId.replace(".","\\\\.");
+//                
+//                titleH1      = "<h1>"+movieHour+" "+title+"</h1>"
+//                titleDiv     = "<div class=\"screeningTitle\">\n"+titleH1+"\n</div>";
+//                
+//                descriptionDiv = "<div class=\"movieDescription\">\n"+description+"\n</div>";
+//                
+//                metaDataDiv    = 
+//                    "<div class=\"metadataContainer\">\n"+
+//                        "<div class=\"duration metadata\">\n"+
+//                            duration+
+//                        "\n</div>"+
+//                        "<div class=\"language metadata\">\n"+
+//                            language+
+//                        "\n</div>"+
+//                        "<div class=\"year metadata\">\n"+
+//                            year+
+//                        "\n</div>"+
+//                    "\n</div>\n";
+//                
+//                movieInfoDiv = "<div class=\"movieInfo\">\n"+titleDiv+metaDataDiv+descriptionDiv+"\n</div>";
+//                imgDiv       = "<div class=\"movieImage\"><img width=\"100%\" src=\""+movie.image_url+"\"/></div>";
+//                clearDiv     = "\n<br class=\"clear\"/>";
+//                screeningDiv = "<div class=\"screening "+screeningColorClass+
+//                    "\" id=\""+movieContainerDivId+"\">\n"+movieInfoDiv+"\n"+imgDiv+clearDiv+"\n</div>";
+//                $("#screeningContainer").append(screeningDiv);
+//            }
+//            $("#spinnerDiv").remove();
+//        });
+//         
+//        request.fail(function( jqXHR, textStatus ) {
+//          $("div").append("Request failed: " + textStatus);
+//        });
+//});
     
 
 </script>
